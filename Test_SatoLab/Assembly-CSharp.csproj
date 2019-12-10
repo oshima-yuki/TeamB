@@ -71,6 +71,7 @@
      <Compile Include="Assets\Scripts\move_test.cs" />
      <Compile Include="Assets\Scripts\move_test2.cs" />
      <Compile Include="Assets\Scripts\Rank_Management.cs" />
+     <Compile Include="Assets\Scripts\Title_Start_GameSystem.cs" />
      <Compile Include="Assets\Scripts\WebCam.cs" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
