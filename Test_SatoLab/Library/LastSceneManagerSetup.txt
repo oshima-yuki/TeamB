@@ -1,4 +1,4 @@
 sceneSetups:
-- path: Assets/Scenes/Car_test.unity
+- path: Assets/Miyashita/Scenes/Sample2.unity
   isLoaded: 1
   isActive: 1

@@ -3,7 +3,7 @@ using UnityEngine;
 
 namespace UnityStandardAssets.Vehicles.Ball
 {
-    public class Dwall : MonoBehaviour
+    public class Ball : MonoBehaviour
     {
         [SerializeField] private float m_MovePower = 5; // The force added to the ball to move it.
         [SerializeField] private bool m_UseTorque = true; // Whether or not to use torque to move the ball.
