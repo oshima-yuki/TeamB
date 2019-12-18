@@ -23,20 +23,22 @@ public class Car_Distance : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        AC = Array_Count;
+        AC = Array_Count - 1;
     }
 
     // Update is called once per frame
     void Update()
     {
         p1 = hit_Check.GetPL1();
+        p2 = hit_Check.GetPL2();
         //Debug.Log("p1:"+p1);
         float PL1D = Vector3.Distance(Player[0].transform.position, PL1ch[p1].transform.position);
-        Debug.Log("PL1:"+PL1D);
+        //Debug.Log("PL1:" + PL1D);
 
+        Debug.Log("p2:" + p2);
         p2 = hit_Check.GetPL2();
         float PL2D = Vector3.Distance(Player[1].transform.position, PL2ch[p2].transform.position);
-        Debug.Log("PL2:"+PL2D);
+        //Debug.Log("PL2:" + PL2D);
     }
 
     /*private void OnTriggerExit(Collider other)
