@@ -8,6 +8,6 @@ public class Title_Start_GameSystem : MonoBehaviour
     //　スタートボタンを押したら実行する
     public void StartGame()
     {
-        SceneManager.LoadScene("Game");//Gameはゲームシーンのスクリプト名に要変更
+        //SceneManager.LoadScene("Car_test");//Gameはゲームシーンのスクリプト名に要変更
     }
 }

@@ -74,6 +74,8 @@
      <Compile Include="Assets\Scripts\MoveObj.cs" />
      <Compile Include="Assets\Scripts\MyCamera.cs" />
      <Compile Include="Assets\Scripts\Rank_Management.cs" />
+     <Compile Include="Assets\Scripts\Title_Dropdown.cs" />
+     <Compile Include="Assets\Scripts\Title_Select.cs" />
      <Compile Include="Assets\Scripts\Title_Start_GameSystem.cs" />
      <Compile Include="Assets\Scripts\WebCam.cs" />
      <Compile Include="Assets\Scripts\YSINX.cs" />

@@ -1,4 +1,8 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Miyashita/Scenes/Sample2.unity
+=======
+- path: Assets/Scenes/SelectScene.unity
+>>>>>>> 91ce88a103a85bb77f5bf87cbe55beab2cc8f729
   isLoaded: 1
   isActive: 1
