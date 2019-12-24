@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 384be6a7ada52174a884abc9bcbcabd7
+=======
+guid: 54a8b3e60af71604abf5fafafa9ea7be
+>>>>>>> origin/Tsure
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
