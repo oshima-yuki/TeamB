@@ -1,5 +1,17 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 0da2bc4950cf4ce40bf572b713b4d3df
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+guid: 54a8b3e60af71604abf5fafafa9ea7be
+=======
+guid: 384be6a7ada52174a884abc9bcbcabd7
+>>>>>>> Mochizuki
+=======
+guid: b97a1aff4a01a064888b56589768598b
+>>>>>>> Miyashita
+>>>>>>> master
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
