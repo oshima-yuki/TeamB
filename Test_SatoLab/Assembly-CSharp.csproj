@@ -66,11 +66,8 @@
      <Compile Include="Assets\Scripts\CarController.cs" />
      <Compile Include="Assets\Scripts\checkpoint_1.cs" />
      <Compile Include="Assets\Scripts\checkpoint_2.cs" />
-<<<<<<< HEAD
      <Compile Include="Assets\Scripts\FackingWall.cs" />
-=======
      <Compile Include="Assets\Scripts\GameControler.cs" />
->>>>>>> master
      <Compile Include="Assets\Scripts\Goal.cs" />
      <Compile Include="Assets\Scripts\move.cs" />
      <Compile Include="Assets\Scripts\move_test.cs" />
