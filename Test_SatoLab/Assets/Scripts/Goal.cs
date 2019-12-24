@@ -8,17 +8,17 @@ public class Goal : MonoBehaviour
     static int Second;
     static int Third;
 
-    int Count=10;
+    int Count=10;//ゴールした時に数字をたす
 
     bool flag1 = true;
     bool flag2 = true;
     bool flag3 = true;
 
-    static int P1Point = 0;
+    static int P1Point = 0;//rank_Managementに数字を送る
     static int P2Point = 0;
     static int P3Point = 0;
 
-    static int Rank = 10;
+    //static int Rank = 10;
 
 
     // Start is called before the first frame update
@@ -54,7 +54,7 @@ public class Goal : MonoBehaviour
         if (other.gameObject.tag == "Player" && flag1 == true)
         {
             P1Point += Count;
-            Count--;
+            Count = Count - 1;
             //Debug.Log(Count);
             flag1 = false;
             Debug.Log("P1ゴール");
@@ -63,7 +63,7 @@ public class Goal : MonoBehaviour
         if (other.gameObject.tag == "Player2" && flag2 == true)
         {
             P2Point += Count;
-            Count--;
+            Count = Count - 1;
             flag2 = false;
             Debug.Log("P2ゴール");
         }
@@ -71,7 +71,7 @@ public class Goal : MonoBehaviour
         if (other.gameObject.tag == "Player3" && flag3 == true)
         {
             P3Point += Count;
-            Count--;
+            Count = Count - 1;
             flag3 = false;
             Debug.Log("P3ゴール");
         }
