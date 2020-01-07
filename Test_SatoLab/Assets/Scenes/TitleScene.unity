@@ -126,7 +126,7 @@ GameObject:
   - component: {fileID: 24566426}
   - component: {fileID: 24566425}
   m_Layer: 5
-  m_Name: StartButton_1
+  m_Name: PlayerSelectButtom
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -211,9 +211,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1329857421}
-        m_MethodName: set_name
-        m_Mode: 5
+      - m_Target: {fileID: 5364300447206160205, guid: faadb2848112e2048a8241103bc5cb76,
+          type: 3}
+        m_MethodName: PlayerSelect
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -401,7 +402,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: "\u30BF\u30A4\u30C8\u30EB\u540D"
+  m_Text: "\u30E9\u30B8\u30A6\u30B9"
 --- !u!222 &474464338
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -604,9 +605,10 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 1329857422}
-        m_MethodName: set_name
-        m_Mode: 5
+      - m_Target: {fileID: 5364300447206160205, guid: faadb2848112e2048a8241103bc5cb76,
+          type: 3}
+        m_MethodName: StartGame
+        m_Mode: 1
         m_Arguments:
           m_ObjectArgument: {fileID: 0}
           m_ObjectArgumentAssemblyTypeName: UnityEngine.Object, UnityEngine
@@ -673,49 +675,75 @@ Animator:
   m_HasTransformHierarchy: 1
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorControllerStateOnDisable: 0
---- !u!1 &1329857421
-GameObject:
+--- !u!1001 &1323363909
+PrefabInstance:
   m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1329857423}
-  - component: {fileID: 1329857422}
-  m_Layer: 0
-  m_Name: GameSystem
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!114 &1329857422
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1329857421}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 3a58edef202b4354cad4baa56ab53949, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
---- !u!4 &1329857423
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1329857421}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 227.8078, y: 148.70813, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 0}
-  m_RootOrder: 4
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 5364300447206160206, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_Name
+      value: SceneSystem
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 227.8078
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 148.70813
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5364300447206160204, guid: faadb2848112e2048a8241103bc5cb76,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: faadb2848112e2048a8241103bc5cb76, type: 3}
 --- !u!1 &1349817298
 GameObject:
   m_ObjectHideFlags: 0
@@ -786,7 +814,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: "\u306B\u3093\u305A\u3046\u3078\u3093\u3053\u3046"
 --- !u!222 &1349817301
 CanvasRenderer:
   m_ObjectHideFlags: 0
@@ -869,7 +897,7 @@ MonoBehaviour:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1519566420}
-  m_Enabled: 1
+  m_Enabled: 0
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 53094a75ef73b0846a65b3525094f955, type: 3}
   m_Name: 
@@ -946,7 +974,7 @@ MonoBehaviour:
     m_HorizontalOverflow: 0
     m_VerticalOverflow: 0
     m_LineSpacing: 1
-  m_Text: Button
+  m_Text: "\u30B9\u30BF\u30FC\u30C8"
 --- !u!222 &1642200495
 CanvasRenderer:
   m_ObjectHideFlags: 0
