@@ -63,6 +63,7 @@
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
      <Compile Include="Assets\Scripts\Camera_1.cs" />
      <Compile Include="Assets\Scripts\Car_Distance.cs" />
+     <Compile Include="Assets\Scripts\Car_Pass.cs" />
      <Compile Include="Assets\Scripts\CarCheck.cs" />
      <Compile Include="Assets\Scripts\CarController.cs" />
      <Compile Include="Assets\Scripts\checkpoint_1.cs" />

@@ -41,7 +41,7 @@ public class hit_Check : MonoBehaviour
         //Debug.Log("AC1:" + Array_Count1);
         if (other.gameObject.tag == "Player" && P1ch == true && PL1_hit <= Array_Count)
         {
-            Debug.Log("1通過");
+            //Debug.Log("1通過");
             P1ch = false;
             PL1_hit++;
         }
