@@ -8,14 +8,20 @@ sceneSetups:
 <<<<<<< HEAD
 - path: Assets/Scenes/stage_test.unity
 =======
+<<<<<<< HEAD
+- path: Assets/Scenes/stage_test.unity
+=======
 - path: Assets/Miyashita/Scenes/Sample2.unity
 >>>>>>> Miyashita
+<<<<<<< HEAD
+=======
 <<<<<<< HEAD
 >>>>>>> master
 =======
 =======
 - path: Assets/Scenes/TitleScene.unity
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> master
 >>>>>>> master
   isLoaded: 1
   isActive: 1
