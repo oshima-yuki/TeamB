@@ -1,9 +1,20 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 guid: e72ca65da0436bf47a4434d56597601c
 =======
 guid: 949eb3955cb4bbc48896077c34f88dca
 >>>>>>> origin/Tsure
+=======
+<<<<<<< HEAD
+guid: 949eb3955cb4bbc48896077c34f88dca
+=======
+guid: e72ca65da0436bf47a4434d56597601c
+>>>>>>> Mochizuki
+=======
+guid: b0e2d8db5eff92b4e99fa6e57e09c3ef
+>>>>>>> Miyashita
+>>>>>>> master
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}

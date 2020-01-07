@@ -1,4 +1,12 @@
 sceneSetups:
+<<<<<<< HEAD
 - path: Assets/Scenes/Car_rank.unity
+=======
+<<<<<<< HEAD
+- path: Assets/Scenes/stage_test.unity
+=======
+- path: Assets/Miyashita/Scenes/Sample2.unity
+>>>>>>> Miyashita
+>>>>>>> master
   isLoaded: 1
   isActive: 1
