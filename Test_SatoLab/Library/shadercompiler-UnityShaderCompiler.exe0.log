@@ -1,8 +1,11 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-Base path: C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data
-=======
 Base path: C:/Program Files/Unity/Editor/Data
+<<<<<<< HEAD
+Cmd: initializeCompiler
+Cmd: preprocess
+  insize=815 outsize=815 ok=1
+Cmd: preprocess
+  insize=2591 outsize=734 ok=1
+=======
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -153,4 +156,5 @@ Cmd: initializeCompiler
 >>>>>>> master
 >>>>>>> master
 =======
+>>>>>>> master
 >>>>>>> master
