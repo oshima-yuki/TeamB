@@ -16,10 +16,31 @@ public class move_test : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        Vector3 force = new Vector3(0.0f, 0.0f, 13.0f);
-        if (force.z < 15.0f)
+        if (Input.GetKey(KeyCode.UpArrow))
         {
+            Vector3 force = new Vector3(0.0f, 0.0f, 10.0f);
             rd.AddForce(force);
         }
+        else
+        {
+            Vector3 force = new Vector3(0.0f, 0.0f, -1.0f);
+        }
+        if (Input.GetKey(KeyCode.LeftArrow))
+        {
+            myT.Rotate(0, y1, 0);
+            if (y1>30)
+            {
+                y1 = 30;
+            }
+        }
+        if (Input.GetKey(KeyCode.RightArrow))
+        {
+            myT.Rotate(0, y2, 0);
+            if (y2>30)
+            {
+                y2 = 30;
+            }
+        }
+
     }
 }

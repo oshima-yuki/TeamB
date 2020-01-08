@@ -1,4 +1,100 @@
+<<<<<<< HEAD
 Base path: C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+Base path: C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data
+=======
+Base path: C:/Program Files/Unity/Editor/Data
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+Cmd: initializeCompiler
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+Cmd: preprocess
+  insize=1399 outsize=441 ok=1
+Cmd: preprocess
+  insize=435 outsize=435 ok=1
+Cmd: preprocess
+  insize=7913 outsize=553 ok=1
+Cmd: preprocess
+  insize=1615 outsize=1853 ok=1
+Cmd: preprocess
+  insize=4405 outsize=1085 ok=1
+Cmd: preprocess
+  insize=1099 outsize=1288 ok=1
+Cmd: preprocess
+  insize=1454 outsize=1800 ok=1
+Cmd: preprocess
+  insize=1013 outsize=1373 ok=1
+Cmd: preprocess
+  insize=12931 outsize=2549 ok=1
+Cmd: preprocess
+  insize=1044 outsize=941 ok=1
+Cmd: preprocess
+  insize=2378 outsize=1060 ok=1
+Cmd: preprocess
+  insize=2236 outsize=943 ok=1
+Cmd: preprocess
+  insize=12069 outsize=2430 ok=1
+Cmd: preprocess
+  insize=2667 outsize=1124 ok=1
+Cmd: preprocess
+  insize=1567 outsize=610 ok=1
+Cmd: preprocess
+  insize=1876 outsize=565 ok=1
+Cmd: preprocess
+  insize=1013 outsize=1615 ok=1
+Cmd: preprocess
+  insize=1457 outsize=474 ok=1
+Cmd: preprocess
+  insize=2273 outsize=1004 ok=1
+Cmd: preprocess
+  insize=1308 outsize=352 ok=1
+Cmd: preprocess
+  insize=880 outsize=1145 ok=1
+=======
+>>>>>>> master
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> master
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+=======
+=======
+Base path: C:/Program Files/Unity_2018.3.2f1/Editor/Data
+>>>>>>> master
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> master
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -14,3 +110,68 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+>>>>>>> master
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+<<<<<<< HEAD
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+=======
+<<<<<<< HEAD
+=======
+>>>>>>> master
+>>>>>>> master
+=======
+>>>>>>> master
+>>>>>>> 9ac71f2bfe1bc2f9f1a2cb2e085aefc50ec675c4
