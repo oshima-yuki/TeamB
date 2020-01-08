@@ -44,7 +44,7 @@ public class CarController : MonoBehaviour
     }
     public void FixedUpdate()
     {
-        //Debug.Log("CarFUpdate");
+        Debug.Log("CarFUpdate");
         float motor = maxMotorTorque * Input.GetAxis("Vertical");
         float steering = maxSteeringAngle * Input.GetAxis("Horizontal");
 
@@ -63,7 +63,6 @@ public class CarController : MonoBehaviour
             ApplyLocalPositionToVisuals(axleInfo.leftWheel);
             ApplyLocalPositionToVisuals(axleInfo.rightWheel);
         }
-        //Debug.Log(motor);
     }
 
 }
