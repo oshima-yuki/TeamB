@@ -1,7 +1,7 @@
 sceneSetups:
-<<<<<<< HEAD
-<<<<<<< HEAD
 - path: Assets/Scenes/Car_rank.unity
+<<<<<<< HEAD
+=======
 =======
 =======
 >>>>>>> master
@@ -21,6 +21,7 @@ sceneSetups:
 =======
 - path: Assets/Scenes/TitleScene.unity
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> master
 >>>>>>> master
 >>>>>>> master
   isLoaded: 1
