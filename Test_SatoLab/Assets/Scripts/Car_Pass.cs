@@ -10,6 +10,7 @@ public class Car_Pass : MonoBehaviour
     int count = 0;
     int ch = 0;
     int[] Check;
+    public GameObject[] chp;
 
     public static int GetPL1()
     {
@@ -34,14 +35,15 @@ public class Car_Pass : MonoBehaviour
     {
         //Debug.Log(PL1_hit);
         //Debug.Log("ch:" + ch);
-        //Debug.Log("カウント" + count);
-        Debug.Log("a"+chpoint[count]);
+        Debug.Log("カウント" + count);
+        //Debug.Log("a"+chpoint[count]);
+
 
     }
 
     private void OnTriggerEnter(Collider other)
     {
-        if (chpoint[count])
+        if (chp[count]==other.gameObject)
         {
             if (other.gameObject.tag == "CheckPoint")
             {
