@@ -26,6 +26,10 @@ sceneSetups:
 >>>>>>> master
 >>>>>>> master
 =======
+<<<<<<< HEAD
 >>>>>>> f3a55c77ec6c4f2dd9bfd81b99414add74e9fe1d
+=======
+>>>>>>> Tsure
+>>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
   isLoaded: 1
   isActive: 1
