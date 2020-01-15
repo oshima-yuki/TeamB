@@ -16,6 +16,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
     y: 43.2
     width: 1536
@@ -80,13 +81,15 @@ MonoBehaviour:
   m_Title: 
   m_RootView: {fileID: 2}
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
-  m_MinSize: {x: 950, y: 300}
-<<<<<<< HEAD
->>>>>>> master
 =======
->>>>>>> master
->>>>>>> master
->>>>>>> master
+    y: 42.666668
+    width: 1280
+    height: 717
+  m_ShowMode: 4
+  m_Title: 
+  m_RootView: {fileID: 6}
+>>>>>>> Tsure
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
 MonoBehaviour:
@@ -96,9 +99,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-<<<<<<< HEAD
-  m_EditorHideFlags: 0
-=======
   m_EditorHideFlags: 1
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -110,6 +110,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 30
+<<<<<<< HEAD
 <<<<<<< HEAD
     width: 1280
     height: 667
@@ -183,6 +184,14 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+    width: 1280
+    height: 667
+  m_MinSize: {x: 683, y: 348}
+  m_MaxSize: {x: 12008, y: 8048}
+  vertical: 0
+  controlID: 39
+>>>>>>> Tsure
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -198,9 +207,15 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 1000
     y: 0
     width: 280
+=======
+    x: 1003
+    y: 0
+    width: 277
+>>>>>>> Tsure
     height: 667
   m_MinSize: {x: 277, y: 74}
   m_MaxSize: {x: 4002, y: 4024}
@@ -209,6 +224,7 @@ MonoBehaviour:
   - {fileID: 14}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -256,6 +272,8 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+>>>>>>> Tsure
 --- !u!114 &4
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -265,7 +283,6 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
->>>>>>> master
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
@@ -273,6 +290,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     y: 365
@@ -306,11 +324,19 @@ MonoBehaviour:
     height: 387
   m_MinSize: {x: 202, y: 224}
   m_MaxSize: {x: 4002, y: 4024}
+=======
+    y: 0
+    width: 248
+    height: 393
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
+>>>>>>> Tsure
   m_ActualView: {fileID: 15}
   m_Panes:
   - {fileID: 15}
   m_Selected: 0
   m_LastSelected: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -334,8 +360,9 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+>>>>>>> Tsure
 --- !u!114 &5
->>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -348,6 +375,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children: []
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
@@ -450,8 +478,23 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 393
+    width: 1003
+    height: 274
+  m_MinSize: {x: 100, y: 100}
+  m_MaxSize: {x: 4000, y: 4000}
+  m_ActualView: {fileID: 18}
+  m_Panes:
+  - {fileID: 13}
+  - {fileID: 18}
+  m_Selected: 1
+  m_LastSelected: 0
+>>>>>>> Tsure
 --- !u!114 &6
->>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -459,27 +502,6 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
-<<<<<<< HEAD
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Children: []
-  m_Position:
-    serializedVersion: 2
-    x: 0
-    y: 365
-    width: 242
-    height: 302
-  m_MinSize: {x: 234, y: 274}
-  m_MaxSize: {x: 10004, y: 10024}
-  m_ActualView: {fileID: 17}
-  m_Panes:
-  - {fileID: 17}
-  m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &5
-=======
   m_EditorHideFlags: 1
   m_Script: {fileID: 12008, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -492,6 +514,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -512,10 +535,13 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> Tsure
     width: 1280
     height: 717
-  m_MinSize: {x: 950, y: 548}
+  m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> Miyashita
@@ -548,8 +574,9 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+>>>>>>> Tsure
 --- !u!114 &7
->>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -557,6 +584,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -572,19 +600,18 @@ MonoBehaviour:
   m_EditorHideFlags: 1
   m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> Tsure
   m_Name: 
   m_EditorClassIdentifier: 
-<<<<<<< HEAD
-  m_Children:
-  - {fileID: 8}
-  - {fileID: 4}
-=======
   m_Children: []
->>>>>>> master
   m_Position:
     serializedVersion: 2
-    x: 648
+    x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 242
@@ -623,11 +650,14 @@ MonoBehaviour:
   controlID: 61
 =======
 >>>>>>> master
+=======
+>>>>>>> Tsure
     width: 1280
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
   m_LastLoadedLayoutName: 
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 >>>>>>> Miyashita
@@ -660,6 +690,8 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+>>>>>>> Tsure
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -681,6 +713,7 @@ MonoBehaviour:
     height: 20
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -2144,6 +2177,9 @@ MonoBehaviour:
 --- !u!114 &16
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+--- !u!114 &9
+>>>>>>> Tsure
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2152,24 +2188,48 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-<<<<<<< HEAD
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children:
-  - {fileID: 3}
+  - {fileID: 10}
   - {fileID: 5}
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
-    width: 890
+    width: 1003
     height: 667
-  m_MinSize: {x: 436, y: 498}
-  m_MaxSize: {x: 14006, y: 14048}
+  m_MinSize: {x: 406, y: 348}
+  m_MaxSize: {x: 8006, y: 8048}
+  vertical: 1
+  controlID: 40
+--- !u!114 &10
+MonoBehaviour:
+  m_ObjectHideFlags: 52
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  m_Children:
+  - {fileID: 4}
+  - {fileID: 11}
+  m_Position:
+    serializedVersion: 2
+    x: 0
+    y: 0
+    width: 1003
+    height: 393
+  m_MinSize: {x: 406, y: 224}
+  m_MaxSize: {x: 8006, y: 4024}
   vertical: 0
-  controlID: 62
---- !u!114 &15
+  controlID: 41
+--- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2184,19 +2244,20 @@ MonoBehaviour:
   m_Children: []
   m_Position:
     serializedVersion: 2
-    x: 0
+    x: 248
     y: 0
-    width: 648
-    height: 365
-  m_MinSize: {x: 202, y: 224}
-  m_MaxSize: {x: 4002, y: 4024}
-  m_ActualView: {fileID: 20}
+    width: 755
+    height: 393
+  m_MinSize: {x: 204, y: 224}
+  m_MaxSize: {x: 4004, y: 4024}
+  m_ActualView: {fileID: 16}
   m_Panes:
-  - {fileID: 20}
   - {fileID: 16}
+  - {fileID: 17}
+  - {fileID: 12}
   m_Selected: 0
-  m_LastSelected: 0
---- !u!114 &16
+  m_LastSelected: 1
+--- !u!114 &12
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2213,6 +2274,7 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Asset Store
     m_Image: {fileID: 357073275683767465, guid: 0000000000000000d000000000000000,
+<<<<<<< HEAD
 =======
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
@@ -2225,182 +2287,23 @@ MonoBehaviour:
     m_Text: Console
     m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
 >>>>>>> master
+=======
+>>>>>>> Tsure
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
     x: 468
     y: 181
     width: 973
     height: 501
   m_PersistentViewDataDictionary: {fileID: 0}
---- !u!114 &17
-=======
-<<<<<<< HEAD
-    x: 723.2
-    y: 73.6
-    width: 367
-    height: 377
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-=======
->>>>>>> master
-<<<<<<< HEAD
-    x: 600
-    y: 72.66667
-    width: 307
-    height: 343
-=======
->>>>>>> master
-    x: 471.33334
-    y: 112.66667
-    width: 435
-    height: 315
-<<<<<<< HEAD
-=======
-    x: 600
-    y: 72.66667
-    width: 307
-    height: 343
->>>>>>> origin/Tsure
-=======
->>>>>>> Mochizuki
-=======
-    x: 0
-    y: 72.66667
-    width: 200
->>>>>>> Miyashita
->>>>>>> master
-=======
-    x: 1023.2
-    y: 80.8
-    width: 230
->>>>>>> master
-    height: 373
->>>>>>> master
->>>>>>> master
-  m_PersistentViewDataDictionary: {fileID: 0}
-  m_SceneHierarchy:
-    m_TreeViewState:
-<<<<<<< HEAD
-      scrollPos: {x: 0, y: 12}
-      m_SelectedIDs: 4427feff
-      m_LastClickedID: -121020
-      m_ExpandedIDs: 009cffffea9dfffffe9dffff7ca4ffff78a9ffffbefbfffff2a10000dea30000
-=======
-      scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: d4fbffff
-=======
-      m_SelectedIDs: d4470000
-      m_LastClickedID: 18388
-      m_ExpandedIDs: 06f8fffff2f8fffff6f8ffffd4fbffffac470000e6470000
-=======
-=======
->>>>>>> master
-<<<<<<< HEAD
-      m_SelectedIDs: e8350000
-      m_LastClickedID: 0
-      m_ExpandedIDs: eafaffffd4fbffff
->>>>>>> origin/Tsure
-=======
-      m_SelectedIDs: e8350000
-      m_LastClickedID: 0
-      m_ExpandedIDs: eafaffffd4fbffff
-=======
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-<<<<<<< HEAD
-      m_ExpandedIDs: a8e9ffff
-=======
-      m_ExpandedIDs: d4fbffff
->>>>>>> Mochizuki
->>>>>>> master
-=======
-      m_SelectedIDs: f8340000
-      m_LastClickedID: 13560
-      m_ExpandedIDs: f0e4ffff7ce6ffffe0e6ffff92e9ffffb6fbffff00350000
->>>>>>> master
-<<<<<<< HEAD
->>>>>>> master
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6a6e29b8955c8778383bb7cd99a727b91c41994c
->>>>>>> origin/Tsure
->>>>>>> master
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-<<<<<<< HEAD
-        m_Name: WheelsHubs
-        m_OriginalName: WheelsHubs
-=======
-        m_Name: CarWaypointBased (4)
-        m_OriginalName: CarWaypointBased (4)
->>>>>>> master
-=======
-      m_RenameOverlay:
-        m_UserAcceptedRename: 0
-        m_Name: CarWaypointBased (4)
-        m_OriginalName: CarWaypointBased (4)
->>>>>>> master
-        m_EditFieldRect:
-          serializedVersion: 2
-          x: 0
-          y: 0
-          width: 0
-          height: 0
-<<<<<<< HEAD
-<<<<<<< HEAD
-        m_UserData: -1808
-=======
-        m_UserData: -64358
->>>>>>> master
-=======
-        m_UserData: -64358
->>>>>>> master
-        m_IsWaitingForDelay: 0
-        m_IsRenaming: 0
-        m_OriginalEventType: 0
-        m_IsRenamingFilename: 0
-<<<<<<< HEAD
-        m_ClientGUIView: {fileID: 2}
-=======
-        m_ClientGUIView: {fileID: 8}
->>>>>>> master
-      m_SearchString: 
-    m_ExpandedScenes: []
-    m_CurrenRootInstanceID: 0
-    m_LockTracker:
-      m_IsLocked: 0
-    m_CurrentSortingName: TransformSorting
-  m_WindowGUID: 53886b7456f85c34c8a1db9329327396
---- !u!114 &19
->>>>>>> master
-=======
-    x: 572
-    y: 529.60004
-    width: 480
-    height: 254
-  m_PersistentViewDataDictionary: {fileID: 0}
---- !u!114 &17
->>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
->>>>>>> master
+--- !u!114 &13
 MonoBehaviour:
   m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
@@ -2417,6 +2320,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 648
@@ -2471,10 +2375,13 @@ MonoBehaviour:
 =======
 >>>>>>> Mochizuki
 =======
+=======
+>>>>>>> Tsure
     x: 0
     y: 466
     width: 1001
     height: 254
+<<<<<<< HEAD
 >>>>>>> Miyashita
 >>>>>>> master
 =======
@@ -2500,6 +2407,9 @@ MonoBehaviour:
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
 >>>>>>> master
   m_PersistentViewDataDictionary: {fileID: 0}
+=======
+  m_PersistentViewDataDictionary: {fileID: 0}
+>>>>>>> Tsure
   m_SearchFilter:
     m_NameFilter: 
     m_ClassNames: []
@@ -2512,6 +2422,7 @@ MonoBehaviour:
     m_ShowAllHits: 0
     m_SearchArea: 1
     m_Folders:
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
@@ -2553,12 +2464,19 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> master
     - Assets/Scenes
+=======
+    - Assets/Scenes
+>>>>>>> Tsure
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
   - Assets/Scenes
   m_LastFoldersGridSize: -1
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\1723106\Documents\TeamB\Test_SatoLab
+=======
+  m_LastProjectPath: C:\Users\1723132\Documents\TeamB_Test\Test_SatoLab
+>>>>>>> Tsure
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
@@ -2569,48 +2487,9 @@ MonoBehaviour:
     m_ExpandedIDs: 00000000423e0000cc3e0000fe40000032410000304200008c42000018430000264400001245000086460000b647000056480000dc480000a6490000ba490000c8490000724a000000ca9a3b
 =======
     scrollPos: {x: 0, y: 0}
-<<<<<<< HEAD
-<<<<<<< HEAD
-    m_SelectedIDs: b0230000
-    m_LastClickedID: 9136
-    m_ExpandedIDs: 00000000b023000000ca9a3bffffff7f
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-    m_SelectedIDs: 82280000
-    m_LastClickedID: 10370
-    m_ExpandedIDs: 00000000822800000e2900007a2b0000b02b0000c62c0000302d0000f22d0000b02f0000a230000034320000983300003e340000d8340000ba350000d2350000e0350000b036000000ca9a3b
-=======
-    m_SelectedIDs: 40290000
-    m_LastClickedID: 10560
-    m_ExpandedIDs: 0000000040290000f2290000d62a0000802d0000f232000056330000f83300000c35000014350000b0370000f6390000523a0000ea3a0000a83b00009c3d0000623e0000ca3e00003e3f000000ca9a3bffffff7f
->>>>>>> Miyashita
-=======
-    m_SelectedIDs: 62330000
-    m_LastClickedID: 13154
-    m_ExpandedIDs: 000000003e280000c82a0000aa2d0000ec2f0000fa30000094310000
->>>>>>> master
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
->>>>>>> 6a6e29b8955c8778383bb7cd99a727b91c41994c
->>>>>>> origin/Tsure
-=======
->>>>>>> master
->>>>>>> master
-=======
->>>>>>> master
-=======
-    m_SelectedIDs: 5c510000
-    m_LastClickedID: 20828
-    m_ExpandedIDs: 0000000010380000583d00009c3f0000a040000038410000
->>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
->>>>>>> master
->>>>>>> master
->>>>>>> master
+    m_SelectedIDs: 88470000
+    m_LastClickedID: 18312
+    m_ExpandedIDs: 000000009c28000028290000a62b0000dc2b0000f82c0000622d00004a2f00007630000078310000de33000044350000ec3500008e3600000e380000263800003438000002390000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2629,12 +2508,15 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 0}
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
 >>>>>>> master
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
     m_SearchString: 
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
@@ -2646,6 +2528,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_ExpandedIDs: 00000000082a0000782c0000f02f0000383200003c330000d4330000
@@ -2705,6 +2588,9 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+    m_ExpandedIDs: 000000009c28000028290000a62b0000dc2b0000f82c0000622d00004a2f00007630000078310000de33000044350000ec3500008e3600000e380000263800003438000002390000
+>>>>>>> Tsure
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2729,6 +2615,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
+<<<<<<< HEAD
     m_SelectedInstanceIDs: 
     m_LastClickedInstanceID: 0
 <<<<<<< HEAD
@@ -2745,9 +2632,13 @@ MonoBehaviour:
     m_ExpandedInstanceIDs: c62300003848fdff18440000d42d0000000000002245fbff8c2a0000
 =======
 <<<<<<< HEAD
+=======
+    m_SelectedInstanceIDs: 4c470000
+    m_LastClickedInstanceID: 18252
+>>>>>>> Tsure
     m_HadKeyboardFocusLastEvent: 1
-<<<<<<< HEAD
     m_ExpandedInstanceIDs: c6230000
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
     m_ExpandedInstanceIDs: c62300003848fdff18440000d42d00002245fbff8c2a000000000000
@@ -2762,6 +2653,8 @@ MonoBehaviour:
 >>>>>>> master
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2779,6 +2672,7 @@ MonoBehaviour:
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 4}
 =======
 <<<<<<< HEAD
@@ -2790,6 +2684,9 @@ MonoBehaviour:
 =======
       m_ClientGUIView: {fileID: 0}
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+      m_ClientGUIView: {fileID: 0}
+>>>>>>> Tsure
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -2797,6 +2694,7 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
     m_NewAssetIndexInList: -1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 0}
@@ -2819,10 +2717,13 @@ MonoBehaviour:
 >>>>>>> master
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
     m_ScrollPosition: {x: 0, y: 0}
     m_GridSize: 64
   m_DirectoriesAreaWidth: 115
 --- !u!114 &14
+<<<<<<< HEAD
 <<<<<<< HEAD
 =======
 =======
@@ -2857,6 +2758,8 @@ MonoBehaviour:
 --- !u!114 &18
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+>>>>>>> Tsure
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2877,6 +2780,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 890
@@ -2941,6 +2845,12 @@ MonoBehaviour:
     height: 703
 >>>>>>> master
 >>>>>>> master
+=======
+    x: 1003.3334
+    y: 72.66667
+    width: 275
+    height: 647
+>>>>>>> Tsure
   m_PersistentViewDataDictionary: {fileID: 0}
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
@@ -2951,10 +2861,8 @@ MonoBehaviour:
     m_ControlHash: -371814159
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
-<<<<<<< HEAD
---- !u!114 &19
-=======
 --- !u!114 &15
+<<<<<<< HEAD
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3013,53 +2921,39 @@ MonoBehaviour:
 --- !u!114 &19
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+>>>>>>> Tsure
 MonoBehaviour:
   m_ObjectHideFlags: 52
-  m_PrefabParentObject: {fileID: 0}
-  m_PrefabInternal: {fileID: 0}
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
-<<<<<<< HEAD
   m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
-=======
-<<<<<<< HEAD
-  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
-=======
-  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
->>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_AutoRepaintOnSceneChange: 0
-  m_MinSize: {x: 200, y: 200}
-  m_MaxSize: {x: 4000, y: 4000}
-  m_TitleContent:
-<<<<<<< HEAD
->>>>>>> master
     m_Text: Hierarchy
     m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
       type: 0}
     m_Tooltip: 
-  m_DepthBufferBits: 0
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 648
+    x: 0
     y: 72.66667
-    width: 238
-    height: 345
+    width: 246
+    height: 373
   m_PersistentViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 74250000
+      m_SelectedIDs: 
       m_LastClickedID: 0
-      m_ExpandedIDs: bef9ffff
+      m_ExpandedIDs: d4fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -3075,13 +2969,14 @@ MonoBehaviour:
         m_IsRenaming: 0
         m_OriginalEventType: 11
         m_IsRenamingFilename: 0
-        m_ClientGUIView: {fileID: 8}
+        m_ClientGUIView: {fileID: 0}
       m_SearchString: 
     m_ExpandedScenes: []
     m_CurrenRootInstanceID: 0
     m_LockTracker:
       m_IsLocked: 0
     m_CurrentSortingName: TransformSorting
+<<<<<<< HEAD
   m_WindowGUID: ceb4b2cbaf3e41c4896ade52b72d66aa
 --- !u!114 &20
 =======
@@ -3125,8 +3020,10 @@ MonoBehaviour:
 =======
   m_WindowGUID: 610da93bfff638c418557f8f79e826c7
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+  m_WindowGUID: 9e3325a129685f4449fac2d3d74c446f
+>>>>>>> Tsure
 --- !u!114 &16
->>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3140,11 +3037,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_AutoRepaintOnSceneChange: 1
 >>>>>>> master
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
@@ -3156,13 +3056,18 @@ MonoBehaviour:
     serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
+=======
+    x: 248
+>>>>>>> Tsure
     y: 72.66667
-    width: 646
-    height: 345
+    width: 751
+    height: 373
   m_PersistentViewDataDictionary: {fileID: 0}
-  m_WindowGUID: 16dc3ade6a091f241b282bfd7a251651
+  m_WindowGUID: e405b1953759d6f4ea237379fabd2c50
   m_SceneLighting: 1
+<<<<<<< HEAD
 =======
     x: 507
     y: 94
@@ -3180,20 +3085,22 @@ MonoBehaviour:
   m_WindowGUID: b7d07794127cd5545af4ac7a1a7f8d4f
   m_SceneLighting: 1
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
   m_2DMode: 0
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
-<<<<<<< HEAD
-    m_Target: {x: 0, y: 0.5059, z: -130.15659}
+    m_Target: {x: 0, y: 0, z: 0}
     speed: 2
-    m_Value: {x: 0, y: 0.5059, z: -130.15659}
+    m_Value: {x: 0, y: 0, z: 0}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
     name: Shaded
     section: Shading Mode
   m_ValidateTrueMetals: 0
+<<<<<<< HEAD
 =======
     m_Target: {x: 0, y: 0, z: 0}
     speed: 2
@@ -3208,6 +3115,8 @@ MonoBehaviour:
     section: Shading Mode
   m_ValidateTrueMetals: 0
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
   m_SceneViewState:
     showFog: 1
     showMaterialUpdate: 0
@@ -3216,12 +3125,16 @@ MonoBehaviour:
     showImageEffects: 1
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     showParticleSystems: 1
 =======
 >>>>>>> master
 =======
     showParticleSystems: 1
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+    showParticleSystems: 1
+>>>>>>> Tsure
   grid:
     xGrid:
       m_Target: 0
@@ -3236,19 +3149,11 @@ MonoBehaviour:
       speed: 2
       m_Value: 0
   m_Rotation:
-<<<<<<< HEAD
-    m_Target: {x: 0.051332176, y: -0.8416823, z: 0.0813137, w: 0.5313418}
-    speed: 2
-    m_Value: {x: 0.051332176, y: -0.8416823, z: 0.0813137, w: 0.5313418}
-  m_Size:
-    m_Target: 45.13049
-    speed: 2
-    m_Value: 45.13049
-=======
     m_Target: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
     speed: 2
     m_Value: {x: -0.08717229, y: 0.89959055, z: -0.21045254, w: -0.3726226}
   m_Size:
+<<<<<<< HEAD
     m_Target: 26.287683
     speed: 2
 <<<<<<< HEAD
@@ -3257,10 +3162,16 @@ MonoBehaviour:
 =======
     m_Value: 26.287683
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+    m_Target: 38.18341
+    speed: 2
+    m_Value: 38.18341
+>>>>>>> Tsure
   m_Ortho:
     m_Target: 0
     speed: 2
     m_Value: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
   m_ShowGlobalGrid: 1
@@ -3269,17 +3180,16 @@ MonoBehaviour:
 =======
   m_ShowGlobalGrid: 1
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+  m_ShowGlobalGrid: 1
+>>>>>>> Tsure
   m_LastSceneViewRotation: {x: 0, y: 0, z: 0, w: 0}
   m_LastSceneViewOrtho: 0
   m_ReplacementShader: {fileID: 0}
   m_ReplacementString: 
   m_LastLockedObject: {fileID: 0}
   m_ViewIsLockedToObject: 0
-<<<<<<< HEAD
---- !u!114 &21
-=======
 --- !u!114 &17
->>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3293,11 +3203,14 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
   m_AutoRepaintOnSceneChange: 1
 >>>>>>> master
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
@@ -3307,16 +3220,16 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
-<<<<<<< HEAD
-    x: 0
-    y: 438
-    width: 646
-    height: 282
+    x: 248
+    y: 72.66667
+    width: 751
+    height: 373
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
   m_Stats: 0
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
+<<<<<<< HEAD
 =======
     x: 507
     y: 94
@@ -3332,10 +3245,13 @@ MonoBehaviour:
 =======
   m_SelectedSizes: 00000000000000000000000000000000000000000000000000000000000000000000000000000000
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
   m_TargetDisplay: 0
   m_ZoomArea:
     m_HRangeLocked: 0
     m_VRangeLocked: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     hZoomLockedByDefault: 0
@@ -3358,18 +3274,26 @@ MonoBehaviour:
     m_VBaseRangeMin: -386.5
     m_VBaseRangeMax: 386.5
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+    hZoomLockedByDefault: 0
+    vZoomLockedByDefault: 0
+    m_HBaseRangeMin: -250.33334
+    m_HBaseRangeMax: 250.33334
+    m_VBaseRangeMin: -118.66667
+    m_VBaseRangeMax: 118.66667
+>>>>>>> Tsure
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-<<<<<<< HEAD
-    m_HSlider: 1
+    m_HSlider: 0
     m_VSlider: 0
     m_IgnoreScrollWheelUntilClicked: 0
-    m_EnableMouseInput: 1
+    m_EnableMouseInput: 0
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
+<<<<<<< HEAD
 =======
     m_HSlider: 0
     m_VSlider: 0
@@ -3382,16 +3306,18 @@ MonoBehaviour:
     m_EnableSliderZoomHorizontal: 0
     m_EnableSliderZoomVertical: 0
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> Tsure
     m_UniformScale: 1
     m_UpDirection: 1
     m_DrawArea:
       serializedVersion: 2
       x: 0
       y: 17
-<<<<<<< HEAD
-      width: 646
-      height: 265
+      width: 751
+      height: 356
     m_Scale: {x: 1.5, y: 1.5}
+<<<<<<< HEAD
     m_Translation: {x: 323, y: 132.5}
 =======
       width: 1532
@@ -3399,6 +3325,9 @@ MonoBehaviour:
     m_Scale: {x: 1, y: 1}
     m_Translation: {x: 766, y: 386.5}
 >>>>>>> master
+=======
+    m_Translation: {x: 375.5, y: 178}
+>>>>>>> Tsure
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
@@ -3407,19 +3336,27 @@ MonoBehaviour:
       serializedVersion: 2
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -215.33333
       y: -88.333336
       width: 430.66666
       height: 176.66667
+=======
+      x: -250.33333
+      y: -118.666664
+      width: 500.66666
+      height: 237.33333
+>>>>>>> Tsure
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
-  m_LastWindowPixelSize: {x: 969, y: 423}
+  m_LastWindowPixelSize: {x: 1126.5, y: 559.5}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
   m_XRRenderMode: 0
+<<<<<<< HEAD
 --- !u!114 &22
 =======
       x: -383
@@ -3441,8 +3378,9 @@ MonoBehaviour:
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
   m_XRRenderMode: 0
+=======
+>>>>>>> Tsure
 --- !u!114 &18
->>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3463,6 +3401,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 890
@@ -3517,10 +3456,13 @@ MonoBehaviour:
 =======
 >>>>>>> Mochizuki
 =======
+=======
+>>>>>>> Tsure
     x: 0
     y: 466
     width: 1001
     height: 254
+<<<<<<< HEAD
 >>>>>>> Miyashita
 >>>>>>> master
 =======
@@ -3536,4 +3478,6 @@ MonoBehaviour:
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
 >>>>>>> master
+=======
+>>>>>>> Tsure
   m_PersistentViewDataDictionary: {fileID: 0}

@@ -1,6 +1,7 @@
 sceneSetups:
 - path: Assets/Scenes/Car_rank.unity
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -24,5 +25,7 @@ sceneSetups:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+>>>>>>> Tsure
   isLoaded: 1
   isActive: 1

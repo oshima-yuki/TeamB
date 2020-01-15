@@ -1,5 +1,6 @@
 fileFormatVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 guid: 0da2bc4950cf4ce40bf572b713b4d3df
@@ -8,6 +9,9 @@ guid: 0da2bc4950cf4ce40bf572b713b4d3df
 <<<<<<< HEAD
 >>>>>>> master
 guid: 384be6a7ada52174a884abc9bcbcabd7
+=======
+guid: 0da2bc4950cf4ce40bf572b713b4d3df
+>>>>>>> Tsure
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
