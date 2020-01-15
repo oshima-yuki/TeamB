@@ -1,6 +1,7 @@
 sceneSetups:
 - path: Assets/Scenes/Car_rank.unity
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 =======
 =======
@@ -24,5 +25,7 @@ sceneSetups:
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
+=======
+>>>>>>> f3a55c77ec6c4f2dd9bfd81b99414add74e9fe1d
   isLoaded: 1
   isActive: 1

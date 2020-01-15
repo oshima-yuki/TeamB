@@ -240,6 +240,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b28d0b8a25174234d8029fea9313a430, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  chp:
+  - {fileID: 231840614}
+  - {fileID: 1362568297}
+  - {fileID: 1209646960}
 --- !u!65 &477798151
 BoxCollider:
   m_ObjectHideFlags: 0
