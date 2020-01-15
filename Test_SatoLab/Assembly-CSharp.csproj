@@ -53,6 +53,16 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_AutoStopLoopedEffect.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_New.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDir.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RandomDirectionTranslate.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_RotateCamera.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Demo\Assets\CFX_Demo_Translate.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoDestructShuriken.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_AutoRotate.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightFlicker.cs" />
+     <Compile Include="Assets\JMO Assets\Cartoon FX\Scripts\CFX_LightIntensityFade.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\MenuSceneLoader.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\PauseMenu.cs" />
      <Compile Include="Assets\SampleScenes\Menu\Scripts\SceneAndURLLoader.cs" />
@@ -61,25 +71,37 @@
      <Compile Include="Assets\SampleScenes\Scripts\ParticleSceneControls.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\PlaceTargetWithMouse.cs" />
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
+     <Compile Include="Assets\Scripts\bakuhatu.cs" />
      <Compile Include="Assets\Scripts\Camera_1.cs" />
+     <Compile Include="Assets\Scripts\Car_Distance.cs" />
      <Compile Include="Assets\Scripts\CarCheck.cs" />
      <Compile Include="Assets\Scripts\CarController.cs" />
      <Compile Include="Assets\Scripts\checkpoint_1.cs" />
      <Compile Include="Assets\Scripts\checkpoint_2.cs" />
+     <Compile Include="Assets\Scripts\Destroy.cs" />
+     <Compile Include="Assets\Scripts\DestroyEffect.cs" />
+     <Compile Include="Assets\Scripts\explosion.cs" />
      <Compile Include="Assets\Scripts\FackingWall.cs" />
      <Compile Include="Assets\Scripts\GameControler.cs" />
      <Compile Include="Assets\Scripts\Goal.cs" />
+     <Compile Include="Assets\Scripts\hit_Check.cs" />
      <Compile Include="Assets\Scripts\move.cs" />
      <Compile Include="Assets\Scripts\move_test.cs" />
      <Compile Include="Assets\Scripts\move_test2.cs" />
      <Compile Include="Assets\Scripts\MoveObj.cs" />
      <Compile Include="Assets\Scripts\MyCamera.cs" />
      <Compile Include="Assets\Scripts\Rank_Management.cs" />
+     <Compile Include="Assets\Scripts\Resporn.cs" />
+     <Compile Include="Assets\Scripts\Return.cs" />
      <Compile Include="Assets\Scripts\Title_Dropdown.cs" />
      <Compile Include="Assets\Scripts\Title_Select.cs" />
      <Compile Include="Assets\Scripts\Title_Start_GameSystem.cs" />
      <Compile Include="Assets\Scripts\WebCam.cs" />
      <Compile Include="Assets\Scripts\YSINX.cs" />
+     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
+     <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
+     <None Include="Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
+     <None Include="Assets\JMO Assets\Cartoon FX Easy Editor\CartoonFX Easy Editor Readme.txt" />
      <None Include="Assets\SampleScenes\Shaders\Skybox-Procedural.shader" />
  <Reference Include="Unity.TextMeshPro.Editor">
  <HintPath>C:/Users/1723168/Desktop/sato-lab TeamB/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>

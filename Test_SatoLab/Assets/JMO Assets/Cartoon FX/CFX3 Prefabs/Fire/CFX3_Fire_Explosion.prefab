@@ -1,0 +1,101 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &8658873862811763262
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 1134129239631916}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6fd2e8874f60266498a388d7229a1bac, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  OnlyDeactivate: 0
+--- !u!1001 &3222915358840098212
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    m_TransformParent: {fileID: 0}
+    m_Modifications:
+    - target: {fileID: 3224048525996565896, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_Name
+      value: CFX3_Fire_Explosion
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_RootOrder
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3218737656324802130, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3349294649771891222, guid: ed45c752c268d034a9a0241c7fa338ba,
+        type: 3}
+      propertyPath: SubModule.subEmitters.Array.data[0].emitter
+      value: 
+      objectReference: {fileID: 198687021709615948}
+    m_RemovedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ed45c752c268d034a9a0241c7fa338ba, type: 3}
+--- !u!1 &1134129239631916 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 3224048525996565896, guid: ed45c752c268d034a9a0241c7fa338ba,
+    type: 3}
+  m_PrefabInstance: {fileID: 3222915358840098212}
+  m_PrefabAsset: {fileID: 0}
+--- !u!198 &198687021709615948 stripped
+ParticleSystem:
+  m_CorrespondingSourceObject: {fileID: 3349544227081809640, guid: ed45c752c268d034a9a0241c7fa338ba,
+    type: 3}
+  m_PrefabInstance: {fileID: 3222915358840098212}
+  m_PrefabAsset: {fileID: 0}

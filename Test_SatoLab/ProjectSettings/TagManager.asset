@@ -8,6 +8,8 @@ TagManager:
   - CheckPoint2
   - Player2
   - Player3
+  - DestroyWall
+  - DestroyWall01
   layers:
   - Default
   - TransparentFX
