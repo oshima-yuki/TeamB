@@ -7,7 +7,7 @@ public class Title_Select : MonoBehaviour
 {
     //ボタン
     public Button StartButton;
-    public Button StartButton_1;
+    public Button SecondButton;
 
     // Start is called before the first frame update
     void Start()
