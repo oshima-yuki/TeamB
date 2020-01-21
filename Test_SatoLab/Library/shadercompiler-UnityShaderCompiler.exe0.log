@@ -99,6 +99,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -175,6 +176,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 >>>>>>> master
 >>>>>>> master
@@ -245,3 +247,7 @@ Cmd: initializeCompiler
 =======
 >>>>>>> master
 >>>>>>> master
+=======
+=======
+>>>>>>> 0a9d6548b2fd48233c301c6e44265e315e277cc8
+>>>>>>> hirokimaeda22666-maeda
