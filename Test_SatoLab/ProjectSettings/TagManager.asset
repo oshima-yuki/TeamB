@@ -5,9 +5,9 @@ TagManager:
   serializedVersion: 2
   tags:
   - CheckPoint1
-  - CheckPoint2
   - Player2
   - Player3
+  - CheckPoint
   layers:
   - Default
   - TransparentFX
