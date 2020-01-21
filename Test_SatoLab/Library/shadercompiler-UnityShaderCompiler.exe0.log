@@ -162,6 +162,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
+<<<<<<< HEAD
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -184,3 +185,5 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+=======
+>>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
