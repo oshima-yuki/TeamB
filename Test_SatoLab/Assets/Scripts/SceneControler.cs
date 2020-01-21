@@ -34,6 +34,7 @@ public class SceneControler: MonoBehaviour
     public void TitleScene()
     {
         SceneManager.LoadScene("TitleScene");
+        Destroy(this);
     }
     //---TitleSceneへ移行---
 
