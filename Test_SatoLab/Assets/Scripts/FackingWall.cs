@@ -7,6 +7,7 @@ public class FackingWall : MonoBehaviour
 {
     [SerializeField]
     public GameObject DestroyWall;
+    public GameObject DestroyWall01;
 
     // Start is called before the first frame update
     void Start()
@@ -23,6 +24,11 @@ public class FackingWall : MonoBehaviour
         if (other.gameObject.tag == "DestroyWall")
         {
             Destroy(DestroyWall);
+
+        }
+        if (other.gameObject.tag == "DestroyWall01")
+        {
+            Destroy(DestroyWall01);
 
         }
     }

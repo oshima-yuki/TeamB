@@ -1,5 +1,8 @@
 <<<<<<< HEAD
 Base path: C:/Program Files/Unity/Editor/Data
+=======
+<<<<<<< HEAD
+Base path: C:/Program Files/Unity/Editor/Data
 <<<<<<< HEAD
 <<<<<<< HEAD
 Base path: C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data
@@ -139,9 +142,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
-Cmd: initializeCompiler
+>>>>>>> master
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -162,6 +163,10 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 <<<<<<< HEAD
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+<<<<<<< HEAD
 =======
 >>>>>>> master
 >>>>>>> master
@@ -170,6 +175,11 @@ Cmd: initializeCompiler
 >>>>>>> master
 =======
 <<<<<<< HEAD
+<<<<<<< HEAD
+Base path: C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data
+Cmd: initializeCompiler
+Cmd: initializeCompiler
+=======
 Base path: C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data
 Cmd: initializeCompiler
 Cmd: initializeCompiler
@@ -213,6 +223,7 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 Cmd: initializeCompiler
 =======
+>>>>>>> master
 >>>>>>> f3a55c77ec6c4f2dd9bfd81b99414add74e9fe1d
 =======
 Base path: C:/Program Files/Unity/Hub/Editor/2018.3.2f1/Editor/Data
@@ -220,4 +231,9 @@ Cmd: initializeCompiler
 Cmd: initializeCompiler
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+<<<<<<< HEAD
+=======
+>>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+>>>>>>> master
 >>>>>>> master

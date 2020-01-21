@@ -6,7 +6,8 @@ public class move_test2 : MonoBehaviour
 {
     Rigidbody rd;
     Transform myT;
-    
+    int y1 = -1;
+    int y2 = 1;
     // Start is called before the first frame update
     void Start()
     {
