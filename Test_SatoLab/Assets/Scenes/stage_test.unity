@@ -206,7 +206,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &8494456
 BoxCollider:
@@ -315,7 +314,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &25521851
 BoxCollider:
@@ -424,7 +422,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &26716850
 BoxCollider:
@@ -501,7 +498,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &39505962
 MeshFilter:
@@ -642,7 +638,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &40958879
 BoxCollider:
@@ -751,7 +746,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &46936908
 BoxCollider:
@@ -860,7 +854,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &48793889
 BoxCollider:
@@ -969,7 +962,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &50511732
 BoxCollider:
@@ -1078,7 +1070,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &61495204
 BoxCollider:
@@ -1187,7 +1178,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &65398793
 BoxCollider:
@@ -1296,7 +1286,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &66320360
 BoxCollider:
@@ -1405,7 +1394,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &68285162
 BoxCollider:
@@ -1514,7 +1502,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &71992087
 BoxCollider:
@@ -1623,7 +1610,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &76536137
 BoxCollider:
@@ -1732,7 +1718,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &78305572
 BoxCollider:
@@ -1841,7 +1826,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &79572195
 BoxCollider:
@@ -1950,7 +1934,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &79810678
 BoxCollider:
@@ -2059,7 +2042,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &83997724
 BoxCollider:
@@ -2168,7 +2150,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &97643047
 BoxCollider:
@@ -2277,7 +2258,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &97909873
 BoxCollider:
@@ -2386,7 +2366,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &103048201
 BoxCollider:
@@ -2495,7 +2474,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &104938664
 BoxCollider:
@@ -2604,7 +2582,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &107483750
 BoxCollider:
@@ -2713,7 +2690,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &117409998
 BoxCollider:
@@ -2822,7 +2798,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &133243316
 BoxCollider:
@@ -2931,7 +2906,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &134085106
 BoxCollider:
@@ -3040,7 +3014,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &141285110
 BoxCollider:
@@ -3149,7 +3122,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &144271534
 BoxCollider:
@@ -3258,7 +3230,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &153606653
 BoxCollider:
@@ -3367,7 +3338,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &153871677
 BoxCollider:
@@ -3476,7 +3446,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &162646509
 BoxCollider:
@@ -3585,7 +3554,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &168734705
 BoxCollider:
@@ -3694,7 +3662,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &172913463
 BoxCollider:
@@ -3803,7 +3770,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &176787058
 BoxCollider:
@@ -3912,7 +3878,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &179610702
 BoxCollider:
@@ -4021,7 +3986,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &179692744
 BoxCollider:
@@ -4130,7 +4094,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &183587695
 BoxCollider:
@@ -4139,115 +4102,6 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 183587690}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 50, y: 10, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &197233379
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 197233380}
-  - component: {fileID: 197233384}
-  - component: {fileID: 197233383}
-  - component: {fileID: 197233382}
-  - component: {fileID: 197233381}
-  m_Layer: 0
-  m_Name: CheckPoint1 (312)
-  m_TagString: CheckPoint1
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &197233380
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 197233379}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -480, y: 3, z: -69.1}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 2127104430}
-  m_RootOrder: 325
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &197233381
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 197233379}
-  m_Mesh: {fileID: 4300004, guid: ef6178546f77bc546af127fb4c56da0c, type: 3}
---- !u!23 &197233382
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 197233379}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
---- !u!114 &197233383
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 197233379}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dafecbcd20f3b2e47a57ab09125c4f6b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flag1: 1
-  flag2: 1
-  flag3: 1
-  Reverse: {fileID: 2102821010}
-  rank_Management: {fileID: 1344317683}
---- !u!65 &197233384
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 197233379}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
@@ -4348,7 +4202,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &197259907
 BoxCollider:
@@ -4457,7 +4310,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &199500422
 BoxCollider:
@@ -4566,7 +4418,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &206779833
 BoxCollider:
@@ -4675,7 +4526,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &209911549
 BoxCollider:
@@ -4784,7 +4634,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &256032596
 BoxCollider:
@@ -4893,7 +4742,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &260436162
 BoxCollider:
@@ -5002,7 +4850,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &263659643
 BoxCollider:
@@ -5079,7 +4926,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &263724915
 MeshFilter:
@@ -5220,7 +5066,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &263935691
 BoxCollider:
@@ -5329,7 +5174,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &279423802
 BoxCollider:
@@ -5438,7 +5282,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &283608664
 BoxCollider:
@@ -5547,7 +5390,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &283686774
 BoxCollider:
@@ -5656,7 +5498,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &284739839
 BoxCollider:
@@ -5765,7 +5606,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &287992027
 BoxCollider:
@@ -5874,7 +5714,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &291492865
 BoxCollider:
@@ -5983,7 +5822,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &292932393
 BoxCollider:
@@ -6092,7 +5930,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &299813116
 BoxCollider:
@@ -6201,7 +6038,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &305330966
 BoxCollider:
@@ -6310,7 +6146,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &310232642
 BoxCollider:
@@ -6402,15 +6237,15 @@ PrefabInstance:
       propertyPath: m_Mass
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3276038493982029269, guid: 04c08e4f084c8ae45a011880b28789d8,
-        type: 3}
-      propertyPath: m_TagString
-      value: Player2
-      objectReference: {fileID: 0}
     - target: {fileID: 3276038495133334806, guid: 04c08e4f084c8ae45a011880b28789d8,
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3276038493982029269, guid: 04c08e4f084c8ae45a011880b28789d8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player2
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3276038494260270354, guid: 04c08e4f084c8ae45a011880b28789d8, type: 3}
@@ -6509,7 +6344,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &328377050
 BoxCollider:
@@ -6618,7 +6452,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &328636384
 BoxCollider:
@@ -6695,7 +6528,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &334305697
 MeshFilter:
@@ -6836,7 +6668,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &334877798
 BoxCollider:
@@ -6945,7 +6776,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &337515728
 BoxCollider:
@@ -7054,7 +6884,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &337946294
 BoxCollider:
@@ -7163,7 +6992,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &339601384
 BoxCollider:
@@ -7272,7 +7100,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &344209672
 BoxCollider:
@@ -7381,7 +7208,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &354348816
 BoxCollider:
@@ -7458,7 +7284,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &356038935
 MeshFilter:
@@ -7690,7 +7515,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &370170273
 BoxCollider:
@@ -7799,7 +7623,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &388374629
 BoxCollider:
@@ -7908,7 +7731,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &398605477
 BoxCollider:
@@ -8017,7 +7839,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &399990589
 BoxCollider:
@@ -8126,7 +7947,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &405639638
 BoxCollider:
@@ -8235,7 +8055,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &408066133
 BoxCollider:
@@ -8312,7 +8131,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &412976832
 MeshFilter:
@@ -8421,7 +8239,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &417463980
 MeshFilter:
@@ -8562,7 +8379,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &418864548
 BoxCollider:
@@ -8671,7 +8487,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &424230725
 BoxCollider:
@@ -8780,7 +8595,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &428758872
 BoxCollider:
@@ -8889,7 +8703,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &464689675
 BoxCollider:
@@ -8998,7 +8811,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &468401379
 BoxCollider:
@@ -9107,7 +8919,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &471007746
 BoxCollider:
@@ -9307,7 +9118,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &476053658
 BoxCollider:
@@ -9435,7 +9245,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &480214307
 BoxCollider:
@@ -9544,7 +9353,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &496101860
 BoxCollider:
@@ -9653,7 +9461,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &498325248
 BoxCollider:
@@ -9762,7 +9569,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &509307637
 BoxCollider:
@@ -9871,7 +9677,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &510072876
 BoxCollider:
@@ -9980,7 +9785,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &512031753
 BoxCollider:
@@ -10089,7 +9893,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &520480608
 BoxCollider:
@@ -10198,7 +10001,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &525410867
 BoxCollider:
@@ -10307,7 +10109,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &528273790
 BoxCollider:
@@ -10416,7 +10217,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &541927462
 BoxCollider:
@@ -10525,7 +10325,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &547349521
 BoxCollider:
@@ -10634,7 +10433,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &548582440
 BoxCollider:
@@ -10743,7 +10541,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &561594678
 BoxCollider:
@@ -10852,7 +10649,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &562954137
 BoxCollider:
@@ -10961,7 +10757,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &566849046
 BoxCollider:
@@ -11070,7 +10865,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &567980895
 BoxCollider:
@@ -11179,7 +10973,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &573443938
 BoxCollider:
@@ -11288,7 +11081,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &575035386
 BoxCollider:
@@ -11397,7 +11189,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &579067037
 BoxCollider:
@@ -11506,7 +11297,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &579329659
 BoxCollider:
@@ -11615,7 +11405,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &582498716
 BoxCollider:
@@ -11724,7 +11513,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &602497723
 BoxCollider:
@@ -11801,7 +11589,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &606931964
 MeshFilter:
@@ -11942,7 +11729,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &610342090
 BoxCollider:
@@ -12051,7 +11837,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &611463678
 BoxCollider:
@@ -12128,7 +11913,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &623422955
 MeshFilter:
@@ -12269,7 +12053,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &634860713
 BoxCollider:
@@ -12378,7 +12161,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &641455317
 BoxCollider:
@@ -12487,7 +12269,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &643523871
 BoxCollider:
@@ -12675,7 +12456,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &656812242
 BoxCollider:
@@ -12784,7 +12564,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &677811132
 BoxCollider:
@@ -12893,7 +12672,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &680260484
 BoxCollider:
@@ -13002,7 +12780,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &680341307
 BoxCollider:
@@ -13111,7 +12888,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &682715399
 BoxCollider:
@@ -13220,7 +12996,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &682776251
 BoxCollider:
@@ -13329,7 +13104,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &689406529
 BoxCollider:
@@ -13598,7 +13372,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &712949975
 BoxCollider:
@@ -13707,7 +13480,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &714009636
 BoxCollider:
@@ -13816,7 +13588,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &718467627
 BoxCollider:
@@ -13925,7 +13696,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &720719580
 BoxCollider:
@@ -14002,7 +13772,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &757000568
 MeshFilter:
@@ -14143,7 +13912,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &760431787
 BoxCollider:
@@ -14252,7 +14020,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &775020067
 BoxCollider:
@@ -14361,7 +14128,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &801399930
 BoxCollider:
@@ -14475,7 +14241,19 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 142022616, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
     - target: {fileID: 635230535, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 1129486032, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
+      propertyPath: m_TagString
+      value: Player
+      objectReference: {fileID: 0}
+    - target: {fileID: 1568360488, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
@@ -14483,7 +14261,7 @@ PrefabInstance:
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
-    - target: {fileID: 142022616, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
+    - target: {fileID: 1814204553, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
@@ -14496,18 +14274,6 @@ PrefabInstance:
       value: Player
       objectReference: {fileID: 0}
     - target: {fileID: 1091888543, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 1129486032, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 1568360488, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
-      propertyPath: m_TagString
-      value: Player
-      objectReference: {fileID: 0}
-    - target: {fileID: 1814204553, guid: 45ae0fe26ffcbe244928269be25f911f, type: 3}
       propertyPath: m_TagString
       value: Player
       objectReference: {fileID: 0}
@@ -14607,7 +14373,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &835164766
 BoxCollider:
@@ -14716,7 +14481,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &843890613
 BoxCollider:
@@ -14825,7 +14589,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &851474049
 BoxCollider:
@@ -14934,7 +14697,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &869896708
 BoxCollider:
@@ -15043,7 +14805,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &883370401
 BoxCollider:
@@ -15152,7 +14913,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &897971086
 BoxCollider:
@@ -15261,7 +15021,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &901360675
 BoxCollider:
@@ -15370,7 +15129,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &910682101
 BoxCollider:
@@ -15479,7 +15237,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &912416748
 BoxCollider:
@@ -15588,7 +15345,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &918520889
 BoxCollider:
@@ -15697,7 +15453,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &924968689
 BoxCollider:
@@ -15806,7 +15561,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &927325307
 BoxCollider:
@@ -15915,7 +15669,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &943148953
 BoxCollider:
@@ -16024,7 +15777,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &944831280
 BoxCollider:
@@ -16133,7 +15885,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &953857601
 BoxCollider:
@@ -16242,7 +15993,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &957953649
 BoxCollider:
@@ -16351,7 +16101,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &964477543
 BoxCollider:
@@ -16460,7 +16209,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &987185969
 BoxCollider:
@@ -16569,7 +16317,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &989067101
 BoxCollider:
@@ -16678,7 +16425,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &995994651
 BoxCollider:
@@ -16878,7 +16624,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1004905116
 BoxCollider:
@@ -16987,7 +16732,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1015863821
 BoxCollider:
@@ -17096,7 +16840,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1018631003
 BoxCollider:
@@ -17205,7 +16948,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1021963786
 BoxCollider:
@@ -17405,7 +17147,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1038988398
 BoxCollider:
@@ -17514,7 +17255,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1040900647
 BoxCollider:
@@ -17591,7 +17331,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1048419618
 MeshFilter:
@@ -17732,7 +17471,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1049194935
 BoxCollider:
@@ -17923,7 +17661,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1057756137
 BoxCollider:
@@ -18032,7 +17769,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1061567104
 BoxCollider:
@@ -18141,7 +17877,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1061740184
 BoxCollider:
@@ -18250,7 +17985,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1062105029
 BoxCollider:
@@ -18359,7 +18093,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1071666870
 BoxCollider:
@@ -18468,7 +18201,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1075594068
 BoxCollider:
@@ -18577,7 +18309,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1085378310
 BoxCollider:
@@ -18686,7 +18417,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1085612883
 BoxCollider:
@@ -18795,7 +18525,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1095779565
 BoxCollider:
@@ -18904,7 +18633,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1096564184
 BoxCollider:
@@ -19013,7 +18741,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1108727618
 BoxCollider:
@@ -19090,7 +18817,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1109937785
 MeshFilter:
@@ -19231,7 +18957,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1112094497
 BoxCollider:
@@ -19340,7 +19065,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1119002883
 BoxCollider:
@@ -19449,7 +19173,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1127804757
 BoxCollider:
@@ -19558,7 +19281,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1139004348
 BoxCollider:
@@ -19667,7 +19389,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1139469486
 BoxCollider:
@@ -19776,7 +19497,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1142324462
 BoxCollider:
@@ -19885,7 +19605,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1148565259
 BoxCollider:
@@ -19994,7 +19713,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1155300903
 BoxCollider:
@@ -20103,7 +19821,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1157921112
 BoxCollider:
@@ -20212,7 +19929,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1161562174
 BoxCollider:
@@ -20321,7 +20037,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1164951506
 BoxCollider:
@@ -20430,7 +20145,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1166316356
 BoxCollider:
@@ -20539,7 +20253,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1167124264
 BoxCollider:
@@ -20648,7 +20361,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1174879121
 BoxCollider:
@@ -20757,7 +20469,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1183866674
 BoxCollider:
@@ -20866,7 +20577,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1202698972
 BoxCollider:
@@ -20975,7 +20685,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1208574168
 BoxCollider:
@@ -21084,7 +20793,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1213431774
 BoxCollider:
@@ -21161,7 +20869,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1218657585
 MeshFilter:
@@ -21302,7 +21009,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1225960913
 BoxCollider:
@@ -21411,7 +21117,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1227535667
 BoxCollider:
@@ -21520,7 +21225,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1234315952
 BoxCollider:
@@ -21629,7 +21333,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1242909927
 BoxCollider:
@@ -21738,7 +21441,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1244187563
 BoxCollider:
@@ -21847,7 +21549,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1248961109
 BoxCollider:
@@ -21956,7 +21657,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1249534300
 BoxCollider:
@@ -22065,7 +21765,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1252556205
 BoxCollider:
@@ -22174,7 +21873,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1253603727
 BoxCollider:
@@ -22283,7 +21981,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1253658260
 BoxCollider:
@@ -22360,7 +22057,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1266312033
 MeshFilter:
@@ -22501,7 +22197,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1280046129
 BoxCollider:
@@ -22610,7 +22305,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1284810275
 BoxCollider:
@@ -22719,7 +22413,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1286637428
 BoxCollider:
@@ -22846,7 +22539,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1310225900
 BoxCollider:
@@ -22955,7 +22647,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1313841046
 BoxCollider:
@@ -23064,7 +22755,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1320277955
 BoxCollider:
@@ -23141,7 +22831,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1323127282
 MeshFilter:
@@ -23282,7 +22971,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1325101648
 BoxCollider:
@@ -23391,7 +23079,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1325881592
 BoxCollider:
@@ -23483,15 +23170,15 @@ PrefabInstance:
       propertyPath: m_Mass
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 3276038493982029269, guid: 04c08e4f084c8ae45a011880b28789d8,
-        type: 3}
-      propertyPath: m_TagString
-      value: Player3
-      objectReference: {fileID: 0}
     - target: {fileID: 3276038495133334806, guid: 04c08e4f084c8ae45a011880b28789d8,
         type: 3}
       propertyPath: m_IsActive
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3276038493982029269, guid: 04c08e4f084c8ae45a011880b28789d8,
+        type: 3}
+      propertyPath: m_TagString
+      value: Player3
       objectReference: {fileID: 0}
     m_RemovedComponents:
     - {fileID: 3276038494260270354, guid: 04c08e4f084c8ae45a011880b28789d8, type: 3}
@@ -23605,7 +23292,6 @@ RectTransform:
   m_LocalScale: {x: 0, y: 0, z: 0}
   m_Children:
   - {fileID: 650498259}
-  - {fileID: 2102821011}
   m_Father: {fileID: 0}
   m_RootOrder: 20
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -23720,7 +23406,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1355033863
 MeshFilter:
@@ -23861,7 +23546,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1359478701
 BoxCollider:
@@ -23970,7 +23654,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1364536301
 BoxCollider:
@@ -24079,7 +23762,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1368710142
 BoxCollider:
@@ -24188,7 +23870,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1375039708
 BoxCollider:
@@ -24297,7 +23978,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1398887951
 BoxCollider:
@@ -24406,7 +24086,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1416423392
 BoxCollider:
@@ -24515,7 +24194,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1419135943
 BoxCollider:
@@ -24624,7 +24302,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1426839925
 BoxCollider:
@@ -24733,7 +24410,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1433374394
 BoxCollider:
@@ -24842,7 +24518,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1440085041
 BoxCollider:
@@ -24951,7 +24626,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1440353586
 BoxCollider:
@@ -25060,7 +24734,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1442031139
 BoxCollider:
@@ -25137,7 +24810,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1442722173
 MeshFilter:
@@ -25278,7 +24950,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1443455008
 BoxCollider:
@@ -25387,7 +25058,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1449704114
 BoxCollider:
@@ -25464,7 +25134,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1459001129
 MeshFilter:
@@ -25605,7 +25274,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1459997034
 BoxCollider:
@@ -25714,7 +25382,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1468870021
 BoxCollider:
@@ -25823,7 +25490,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1481248280
 BoxCollider:
@@ -25932,7 +25598,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1492587708
 BoxCollider:
@@ -26041,7 +25706,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1494263680
 BoxCollider:
@@ -26150,7 +25814,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1495121608
 BoxCollider:
@@ -26259,7 +25922,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1499927696
 BoxCollider:
@@ -26336,7 +25998,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1518076968
 MeshFilter:
@@ -26477,7 +26138,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1521052443
 BoxCollider:
@@ -26677,7 +26337,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1532744794
 BoxCollider:
@@ -26686,115 +26345,6 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1532744789}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 50, y: 10, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &1532932334
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1532932335}
-  - component: {fileID: 1532932339}
-  - component: {fileID: 1532932338}
-  - component: {fileID: 1532932337}
-  - component: {fileID: 1532932336}
-  m_Layer: 0
-  m_Name: CheckPoint1 (314)
-  m_TagString: CheckPoint1
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1532932335
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1532932334}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -480, y: 3, z: -76.65}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 2127104430}
-  m_RootOrder: 326
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &1532932336
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1532932334}
-  m_Mesh: {fileID: 4300004, guid: ef6178546f77bc546af127fb4c56da0c, type: 3}
---- !u!23 &1532932337
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1532932334}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
---- !u!114 &1532932338
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1532932334}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dafecbcd20f3b2e47a57ab09125c4f6b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flag1: 1
-  flag2: 1
-  flag3: 1
-  Reverse: {fileID: 2102821010}
-  rank_Management: {fileID: 1344317683}
---- !u!65 &1532932339
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1532932334}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
@@ -26895,7 +26445,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1537977353
 BoxCollider:
@@ -27095,7 +26644,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1557952826
 BoxCollider:
@@ -27204,7 +26752,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1560841069
 BoxCollider:
@@ -27313,7 +26860,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1563746326
 BoxCollider:
@@ -27422,7 +26968,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1564455388
 BoxCollider:
@@ -27531,7 +27076,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1577839897
 BoxCollider:
@@ -27597,115 +27141,6 @@ BoxCollider:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1584202425}
-  m_Material: {fileID: 0}
-  m_IsTrigger: 1
-  m_Enabled: 1
-  serializedVersion: 2
-  m_Size: {x: 50, y: 10, z: 1}
-  m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &1585127491
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 1585127492}
-  - component: {fileID: 1585127496}
-  - component: {fileID: 1585127495}
-  - component: {fileID: 1585127494}
-  - component: {fileID: 1585127493}
-  m_Layer: 0
-  m_Name: CheckPoint1 (311)
-  m_TagString: CheckPoint1
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 1
---- !u!4 &1585127492
-Transform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1585127491}
-  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
-  m_LocalPosition: {x: -480, y: 3, z: -68.23}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 2127104430}
-  m_RootOrder: 324
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!33 &1585127493
-MeshFilter:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1585127491}
-  m_Mesh: {fileID: 4300004, guid: ef6178546f77bc546af127fb4c56da0c, type: 3}
---- !u!23 &1585127494
-MeshRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1585127491}
-  m_Enabled: 1
-  m_CastShadows: 1
-  m_ReceiveShadows: 1
-  m_DynamicOccludee: 1
-  m_MotionVectors: 1
-  m_LightProbeUsage: 1
-  m_ReflectionProbeUsage: 1
-  m_RenderingLayerMask: 1
-  m_RendererPriority: 0
-  m_Materials:
-  - {fileID: 0}
-  m_StaticBatchInfo:
-    firstSubMesh: 0
-    subMeshCount: 0
-  m_StaticBatchRoot: {fileID: 0}
-  m_ProbeAnchor: {fileID: 0}
-  m_LightProbeVolumeOverride: {fileID: 0}
-  m_ScaleInLightmap: 1
-  m_PreserveUVs: 0
-  m_IgnoreNormalsForChartDetection: 0
-  m_ImportantGI: 0
-  m_StitchLightmapSeams: 0
-  m_SelectedEditorRenderState: 3
-  m_MinimumChartSize: 4
-  m_AutoUVMaxDistance: 0.5
-  m_AutoUVMaxAngle: 89
-  m_LightmapParameters: {fileID: 0}
-  m_SortingLayerID: 0
-  m_SortingLayer: 0
-  m_SortingOrder: 0
---- !u!114 &1585127495
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1585127491}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: dafecbcd20f3b2e47a57ab09125c4f6b, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  flag1: 1
-  flag2: 1
-  flag3: 1
-  Reverse: {fileID: 2102821010}
-  rank_Management: {fileID: 1344317683}
---- !u!65 &1585127496
-BoxCollider:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 1585127491}
   m_Material: {fileID: 0}
   m_IsTrigger: 1
   m_Enabled: 1
@@ -27806,7 +27241,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1587143119
 BoxCollider:
@@ -27915,7 +27349,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1590492057
 BoxCollider:
@@ -28024,7 +27457,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1595102097
 BoxCollider:
@@ -28133,7 +27565,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1598165233
 BoxCollider:
@@ -28242,7 +27673,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1598741292
 BoxCollider:
@@ -28351,7 +27781,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1603424110
 BoxCollider:
@@ -28460,7 +27889,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1603670606
 BoxCollider:
@@ -28569,7 +27997,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1622179752
 BoxCollider:
@@ -28678,7 +28105,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1623019565
 BoxCollider:
@@ -28787,7 +28213,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1636343208
 BoxCollider:
@@ -28896,7 +28321,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1645523153
 BoxCollider:
@@ -29005,7 +28429,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1651980896
 BoxCollider:
@@ -29114,7 +28537,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1657273645
 BoxCollider:
@@ -29191,7 +28613,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1666583063
 MeshFilter:
@@ -29332,7 +28753,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1670035770
 BoxCollider:
@@ -29441,7 +28861,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1681140016
 BoxCollider:
@@ -29550,7 +28969,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1693601063
 BoxCollider:
@@ -29659,7 +29077,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1697674322
 BoxCollider:
@@ -29768,7 +29185,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1708223002
 BoxCollider:
@@ -29845,7 +29261,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1708857669
 MeshFilter:
@@ -29986,7 +29401,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1713227954
 BoxCollider:
@@ -30095,7 +29509,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1719118783
 BoxCollider:
@@ -30204,7 +29617,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1723636432
 BoxCollider:
@@ -30313,7 +29725,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1723639632
 BoxCollider:
@@ -30422,7 +29833,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1728329252
 BoxCollider:
@@ -30531,7 +29941,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1741438956
 BoxCollider:
@@ -30731,7 +30140,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1752101943
 BoxCollider:
@@ -30808,7 +30216,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1753095098
 MeshFilter:
@@ -30949,7 +30356,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1755105129
 BoxCollider:
@@ -31058,7 +30464,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1766128847
 BoxCollider:
@@ -31167,7 +30572,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1773310346
 BoxCollider:
@@ -31244,7 +30648,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1776540571
 MeshFilter:
@@ -31353,7 +30756,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1780829742
 MeshFilter:
@@ -31494,7 +30896,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1788195330
 BoxCollider:
@@ -31603,7 +31004,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1793198644
 BoxCollider:
@@ -31712,7 +31112,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1799798728
 BoxCollider:
@@ -31821,7 +31220,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1802687486
 BoxCollider:
@@ -31930,7 +31328,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1805792247
 BoxCollider:
@@ -32007,7 +31404,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1813729181
 MeshFilter:
@@ -32148,7 +31544,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1817008124
 BoxCollider:
@@ -32257,7 +31652,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1817533267
 BoxCollider:
@@ -32366,7 +31760,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1821432299
 BoxCollider:
@@ -32475,7 +31868,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1825063755
 BoxCollider:
@@ -32552,7 +31944,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1831935770
 MeshFilter:
@@ -32693,7 +32084,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1871526851
 BoxCollider:
@@ -32802,7 +32192,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1875063747
 BoxCollider:
@@ -32911,7 +32300,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1879763232
 BoxCollider:
@@ -33020,7 +32408,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1881231749
 BoxCollider:
@@ -33129,7 +32516,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1884626733
 BoxCollider:
@@ -33238,7 +32624,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1884970076
 BoxCollider:
@@ -33482,7 +32867,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1894323855
 BoxCollider:
@@ -33591,7 +32975,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1913524037
 BoxCollider:
@@ -33700,7 +33083,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1915074248
 BoxCollider:
@@ -33809,7 +33191,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1919849498
 BoxCollider:
@@ -33886,7 +33267,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &1924850878
 MeshFilter:
@@ -34027,7 +33407,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1933846445
 BoxCollider:
@@ -34136,7 +33515,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1948928383
 BoxCollider:
@@ -34245,7 +33623,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1955381554
 BoxCollider:
@@ -34354,7 +33731,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1966897307
 BoxCollider:
@@ -34567,7 +33943,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1974661143
 BoxCollider:
@@ -34676,7 +34051,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1975990096
 BoxCollider:
@@ -34785,7 +34159,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1977776076
 BoxCollider:
@@ -34894,7 +34267,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1979130363
 BoxCollider:
@@ -35003,7 +34375,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1986243058
 BoxCollider:
@@ -35112,7 +34483,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1986503819
 BoxCollider:
@@ -35221,7 +34591,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &1991971063
 BoxCollider:
@@ -35330,7 +34699,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2000824452
 BoxCollider:
@@ -35439,7 +34807,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2004010578
 BoxCollider:
@@ -35548,7 +34915,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2007129777
 BoxCollider:
@@ -35657,7 +35023,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2026145738
 BoxCollider:
@@ -35766,7 +35131,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2028465684
 BoxCollider:
@@ -35875,7 +35239,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2033713980
 BoxCollider:
@@ -35984,7 +35347,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2037088037
 BoxCollider:
@@ -36093,7 +35455,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2038616061
 BoxCollider:
@@ -36202,7 +35563,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2040357993
 BoxCollider:
@@ -36311,7 +35671,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2047092002
 BoxCollider:
@@ -36511,7 +35870,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2047861362
 BoxCollider:
@@ -36620,7 +35978,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2053285520
 BoxCollider:
@@ -36729,7 +36086,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2070517349
 BoxCollider:
@@ -36744,85 +36100,6 @@ BoxCollider:
   serializedVersion: 2
   m_Size: {x: 50, y: 10, z: 1}
   m_Center: {x: 0, y: 0, z: 0}
---- !u!1 &2102821010
-GameObject:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  serializedVersion: 6
-  m_Component:
-  - component: {fileID: 2102821011}
-  - component: {fileID: 2102821013}
-  - component: {fileID: 2102821012}
-  m_Layer: 5
-  m_Name: Reverse_runText
-  m_TagString: Untagged
-  m_Icon: {fileID: 0}
-  m_NavMeshLayer: 0
-  m_StaticEditorFlags: 0
-  m_IsActive: 0
---- !u!224 &2102821011
-RectTransform:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2102821010}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0, y: 0, z: 0}
-  m_LocalScale: {x: 1, y: 1, z: 1}
-  m_Children: []
-  m_Father: {fileID: 1337339468}
-  m_RootOrder: 1
-  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.5, y: 0.5}
-  m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0, y: 119}
-  m_SizeDelta: {x: 160, y: 30}
-  m_Pivot: {x: 0.5, y: 0.5}
---- !u!114 &2102821012
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2102821010}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 708705254, guid: f70555f144d8491a825f0804e09c671c, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  m_Material: {fileID: 0}
-  m_Color: {r: 1, g: 0, b: 0, a: 1}
-  m_RaycastTarget: 1
-  m_OnCullStateChanged:
-    m_PersistentCalls:
-      m_Calls: []
-    m_TypeName: UnityEngine.UI.MaskableGraphic+CullStateChangedEvent, UnityEngine.UI,
-      Version=1.0.0.0, Culture=neutral, PublicKeyToken=null
-  m_FontData:
-    m_Font: {fileID: 10102, guid: 0000000000000000e000000000000000, type: 0}
-    m_FontSize: 20
-    m_FontStyle: 0
-    m_BestFit: 0
-    m_MinSize: 2
-    m_MaxSize: 40
-    m_Alignment: 4
-    m_AlignByGeometry: 0
-    m_RichText: 1
-    m_HorizontalOverflow: 0
-    m_VerticalOverflow: 0
-    m_LineSpacing: 1
-  m_Text: "\u9006\u8D70\u4E2D"
---- !u!222 &2102821013
-CanvasRenderer:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 2102821010}
-  m_CullTransparentMesh: 0
 --- !u!1 &2107535184
 GameObject:
   m_ObjectHideFlags: 0
@@ -36917,7 +36194,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2107535189
 BoxCollider:
@@ -37026,7 +36302,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2107567487
 BoxCollider:
@@ -37135,7 +36410,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2110188277
 BoxCollider:
@@ -37212,7 +36486,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!33 &2117732334
 MeshFilter:
@@ -37353,7 +36626,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2118582450
 BoxCollider:
@@ -37719,9 +36991,6 @@ Transform:
   - {fileID: 712949971}
   - {fileID: 305330962}
   - {fileID: 1793198640}
-  - {fileID: 1585127492}
-  - {fileID: 197233380}
-  - {fileID: 1532932335}
   m_Father: {fileID: 0}
   m_RootOrder: 16
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
@@ -37819,7 +37088,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2143667124
 BoxCollider:
@@ -37928,7 +37196,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2144007913
 BoxCollider:
@@ -38037,7 +37304,6 @@ MonoBehaviour:
   flag1: 1
   flag2: 1
   flag3: 1
-  Reverse: {fileID: 2102821010}
   rank_Management: {fileID: 1344317683}
 --- !u!65 &2144130269
 BoxCollider:

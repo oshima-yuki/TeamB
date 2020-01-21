@@ -1,22 +1,15 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-using UnityEngine.UI;
 
 public class CarCheck : MonoBehaviour
 {
-    //このスクリプトはチェックポイントにアタッチしてる
-    //車に当たったときに一回だけカウントを1増やす感じ
-
-    static int cCount_1;//Player1の値をRankManagementに送るやつ
-    static int cCount_2;//Player2の値をRankManagementに送るやつ
-    static int cCount_3;//Player3の値をRankManagementに送るやつ
-
-    public bool flag1 = true;//1回だけ当たるという処理で使ってる
+    static int cCount_1;
+    static int cCount_2;
+    static int cCount_3;
+    public bool flag1 = true;
     public bool flag2 = true;
     public bool flag3 = true;
-
-    public GameObject Reverse;
     public Rank_Management rank_Management;
 
     private void Start()
@@ -46,7 +39,8 @@ public class CarCheck : MonoBehaviour
             //Debug.Log("PL1:" + cCount_1);
             flag1 = false;
         }
-  
+
+
         if (other.gameObject.tag == "Player2" && flag2 == true)
         {
             cCount_2++;
@@ -57,7 +51,7 @@ public class CarCheck : MonoBehaviour
         if (other.gameObject.tag == "Player3" && flag3 == true)
         {
             cCount_3++;
-            //Debug.Log("PL3:" + cCount_3);
+            //Debug.Log("PL2:" + cCount_2);
             flag3 = false;
         }
     }

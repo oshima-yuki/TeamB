@@ -1,8 +1,4 @@
 sceneSetups:
-<<<<<<< HEAD
-- path: Assets/Scenes/stage_test.unity
-=======
 - path: Assets/Miyashita/Scenes/Sample2.unity
->>>>>>> Miyashita
   isLoaded: 1
   isActive: 1
