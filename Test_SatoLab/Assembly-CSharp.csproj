@@ -1481,8 +1481,6 @@
      <Compile Include="Assets\SampleScenes\Scripts\SlowMoButton.cs" />
      <Compile Include="Assets\Scripts\bakuhatu.cs" />
      <Compile Include="Assets\Scripts\Camera_1.cs" />
-     <Compile Include="Assets\Scripts\Car_Distance.cs" />
-     <Compile Include="Assets\Scripts\Car_Pass.cs" />
      <Compile Include="Assets\Scripts\CarCheck.cs" />
      <Compile Include="Assets\Scripts\CarController.cs" />
      <Compile Include="Assets\Scripts\checkpoint_1.cs" />
@@ -1507,6 +1505,8 @@
      <Compile Include="Assets\Scripts\Title_Start_GameSystem.cs" />
      <Compile Include="Assets\Scripts\WebCam.cs" />
      <Compile Include="Assets\Scripts\YSINX.cs" />
+     <Compile Include="Assets\Tsure\Car_Distance.cs" />
+     <Compile Include="Assets\Tsure\Car_Pass.cs" />
      <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFX3 Multiply Color.shader" />
      <None Include="Assets\JMO Assets\Cartoon FX\Shaders\CFXM_MobileParticleAdd_Alpha8.shader" />
      <None Include="Assets\JMO Assets\Cartoon FX\CartoonFX Free.txt" />
