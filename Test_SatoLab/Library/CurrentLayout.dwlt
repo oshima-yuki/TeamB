@@ -14,6 +14,10 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_PixelRect:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
     x: 0
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -71,6 +75,7 @@ MonoBehaviour:
   m_Title: 
   m_RootView: {fileID: 6}
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_MinSize: {x: 950, y: 548}
 =======
 <<<<<<< HEAD
@@ -78,10 +83,13 @@ MonoBehaviour:
   m_MinSize: {x: 950, y: 548}
 =======
 =======
+>>>>>>> hirokimaeda22666-maeda
+=======
   m_ShowMode: 4
   m_Title: 
   m_RootView: {fileID: 2}
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 =======
     y: 42.666668
     width: 1280
@@ -99,6 +107,8 @@ MonoBehaviour:
 =======
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_MinSize: {x: 950, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
 --- !u!114 &2
@@ -139,11 +149,14 @@ MonoBehaviour:
 =======
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
     height: 781
   m_MinSize: {x: 950, y: 548}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -282,9 +295,12 @@ MonoBehaviour:
     x: 0
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
     width: 1280
@@ -300,12 +316,18 @@ MonoBehaviour:
     width: 965
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 =======
     width: 963
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+=======
+    width: 963
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
     height: 30
   m_MinSize: {x: 0, y: 0}
   m_MaxSize: {x: 0, y: 0}
@@ -337,6 +359,10 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -437,12 +463,19 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
   m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children: []
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
 =======
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -468,8 +501,11 @@ MonoBehaviour:
   - {fileID: 11}
   - {fileID: 12}
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_Position:
     serializedVersion: 2
     x: 0
@@ -506,6 +542,7 @@ MonoBehaviour:
     y: 30
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 1536
     height: 731
   m_MinSize: {x: 713, y: 498}
@@ -525,6 +562,9 @@ MonoBehaviour:
 =======
     width: 963
 >>>>>>> master
+=======
+    width: 963
+>>>>>>> hirokimaeda22666-maeda
     height: 723
 <<<<<<< HEAD
   m_MinSize: {x: 713, y: 498}
@@ -541,13 +581,17 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 =======
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_MinSize: {x: 709, y: 698}
   m_MaxSize: {x: 18004, y: 18048}
   vertical: 0
   controlID: 3387
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -574,6 +618,8 @@ MonoBehaviour:
 =======
   m_LastSelected: 1
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+>>>>>>> hirokimaeda22666-maeda
 --- !u!114 &6
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -588,12 +634,22 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   m_Children:
   - {fileID: 7}
+<<<<<<< HEAD
   - {fileID: 2}
   - {fileID: 8}
+=======
+<<<<<<< HEAD
+  - {fileID: 2}
+  - {fileID: 8}
+=======
+  - {fileID: 10}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_Position:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -607,6 +663,8 @@ MonoBehaviour:
   vertical: 0
   controlID: 43
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
     width: 2560
     height: 1391
@@ -650,8 +708,11 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 =======
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
     width: 482
     height: 723
   m_MinSize: {x: 232, y: 698}
@@ -659,6 +720,7 @@ MonoBehaviour:
   vertical: 1
   controlID: 3278
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -668,6 +730,8 @@ MonoBehaviour:
 =======
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+=======
+>>>>>>> hirokimaeda22666-maeda
 --- !u!114 &7
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -676,6 +740,7 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -700,6 +765,14 @@ MonoBehaviour:
 =======
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+=======
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children: []
@@ -707,6 +780,7 @@ MonoBehaviour:
     serializedVersion: 2
     x: 0
     y: 0
+<<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -729,6 +803,8 @@ MonoBehaviour:
   controlID: 44
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
     width: 2560
     height: 30
@@ -787,6 +863,7 @@ MonoBehaviour:
   vertical: 1
   controlID: 3279
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 >>>>>>> master
 >>>>>>> master
@@ -796,6 +873,8 @@ MonoBehaviour:
 =======
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+=======
+>>>>>>> hirokimaeda22666-maeda
 --- !u!114 &8
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -804,8 +883,18 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 1
   m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+=======
+<<<<<<< HEAD
+  m_EditorHideFlags: 1
+  m_Script: {fileID: 12042, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12006, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_Name: 
   m_EditorClassIdentifier: 
   m_Children: []
@@ -825,11 +914,14 @@ MonoBehaviour:
 =======
     y: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     width: 723
     height: 391
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 =======
@@ -862,13 +954,19 @@ MonoBehaviour:
     height: 387
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 =======
     width: 482
     height: 224
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_MinSize: {x: 202, y: 224}
   m_MaxSize: {x: 4002, y: 4024}
   m_ActualView: {fileID: 13}
@@ -882,7 +980,10 @@ MonoBehaviour:
 =======
   m_LastSelected: 0
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
 --- !u!114 &9
 >>>>>>> master
 MonoBehaviour:
@@ -907,6 +1008,10 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
     y: 365
@@ -1415,11 +1520,14 @@ MonoBehaviour:
 =======
 --- !u!114 &12
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 MonoBehaviour:
   m_ObjectHideFlags: 52
 =======
 --- !u!114 &7
+=======
+>>>>>>> hirokimaeda22666-maeda
 MonoBehaviour:
   m_ObjectHideFlags: 52
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
@@ -1438,6 +1546,10 @@ MonoBehaviour:
     serializedVersion: 2
     x: 686
     y: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
     width: 390
     height: 365
@@ -1616,12 +1728,15 @@ MonoBehaviour:
   m_Pos:
     serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
     x: 0
     y: 464
     width: 721
     height: 320
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
     x: 0
@@ -1655,15 +1770,21 @@ MonoBehaviour:
     height: 316
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 =======
     x: 572
     y: 80.8
     width: 480
     height: 204
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_PersistentViewDataDictionary: {fileID: 0}
   m_MaximizeOnPlay: 0
   m_Gizmos: 0
@@ -1676,6 +1797,7 @@ MonoBehaviour:
     hZoomLockedByDefault: 0
     vZoomLockedByDefault: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_HBaseRangeMin: -288.4
     m_HBaseRangeMax: 288.4
     m_VBaseRangeMin: -121.200005
@@ -1683,6 +1805,8 @@ MonoBehaviour:
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_HBaseRangeMin: -156.33334
@@ -1717,15 +1841,21 @@ MonoBehaviour:
     m_VBaseRangeMax: 119.6
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 =======
     m_HBaseRangeMin: -192
     m_HBaseRangeMax: 192
     m_VBaseRangeMin: -74.8
     m_VBaseRangeMax: 74.8
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
     m_HAllowExceedBaseRangeMin: 1
     m_HAllowExceedBaseRangeMax: 1
     m_VAllowExceedBaseRangeMin: 1
@@ -1757,6 +1887,10 @@ MonoBehaviour:
       serializedVersion: 2
       x: 0
       y: 17
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
       width: 721
       height: 303
@@ -1819,11 +1953,14 @@ MonoBehaviour:
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
 <<<<<<< HEAD
+<<<<<<< HEAD
       x: -288.4
       y: -121.2
       width: 576.8
       height: 242.4
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1863,22 +2000,31 @@ MonoBehaviour:
       height: 239.2
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 =======
       x: -192
       y: -74.8
       width: 384
       height: 149.6
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
     m_MinimalGUI: 1
   m_defaultScale: 1
   m_TargetTexture: {fileID: 0}
   m_CurrentColorSpace: 0
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_LastWindowPixelSize: {x: 901.25, y: 400}
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1903,12 +2049,18 @@ MonoBehaviour:
   m_LastWindowPixelSize: {x: 563.75, y: 395}
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 =======
   m_LastWindowPixelSize: {x: 600, y: 255}
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+=======
+  m_LastWindowPixelSize: {x: 600, y: 255}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
   m_LowResolutionForAspectRatios: 01000000000100000100
@@ -1918,7 +2070,10 @@ MonoBehaviour:
 =======
 --- !u!114 &14
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1947,6 +2102,7 @@ MonoBehaviour:
   m_Pos:
 >>>>>>> master
     serializedVersion: 2
+<<<<<<< HEAD
     x: 0
 <<<<<<< HEAD
     y: 0
@@ -1960,6 +2116,8 @@ MonoBehaviour:
     width: 721
     height: 371
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -1994,15 +2152,21 @@ MonoBehaviour:
     height: 367
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 =======
     x: 572
     y: 304.80002
     width: 480
     height: 205
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_PersistentViewDataDictionary: {fileID: 0}
   m_WindowGUID: ec2f27f3ea3933c4289c4588a8700d88
   m_SceneLighting: 1
@@ -2010,6 +2174,10 @@ MonoBehaviour:
   m_isRotationLocked: 0
   m_AudioPlay: 0
   m_Position:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2066,6 +2234,7 @@ MonoBehaviour:
   m_Rotation:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
     m_Target: {x: 0.025955673, y: -0.9739229, z: 0.16698961, w: 0.15137966}
     speed: 2
     m_Value: {x: 0.02595566, y: -0.97392243, z: 0.16698954, w: 0.15137959}
@@ -2086,6 +2255,8 @@ MonoBehaviour:
 <<<<<<< HEAD
 >>>>>>> master
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
     m_Target: {x: 0.21716091, y: 0.7748427, z: -0.35190162, w: 0.47814783}
     speed: 2
     m_Value: {x: 0.21716091, y: 0.7748427, z: -0.35190162, w: 0.47814783}
@@ -2132,6 +2303,7 @@ MonoBehaviour:
 =======
 --- !u!114 &15
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 =======
   m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
@@ -2149,6 +2321,8 @@ MonoBehaviour:
   m_LastLoadedLayoutName: 
 --- !u!114 &8
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+>>>>>>> hirokimaeda22666-maeda
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2160,9 +2334,12 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
   m_Script: {fileID: 12011, guid: 0000000000000000e000000000000000, type: 0}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_Script: {fileID: 12071, guid: 0000000000000000e000000000000000, type: 0}
 >>>>>>> master
 =======
@@ -2277,9 +2454,17 @@ MonoBehaviour:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
   m_Enabled: 1
+<<<<<<< HEAD
   m_EditorHideFlags: 1
 <<<<<<< HEAD
   m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 12914, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_Script: {fileID: 12111, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_Name: 
   m_EditorClassIdentifier: 
   m_MinSize: {x: 400, y: 100}
@@ -2291,6 +2476,7 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
     x: 468
     y: 181
     width: 973
@@ -2364,6 +2550,54 @@ MonoBehaviour:
 <<<<<<< HEAD
 =======
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+    x: 0
+    y: 466
+    width: 1001
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ViewTransforms:
+    m_KeySerializationHelper:
+    - {fileID: 1107699435071657850, guid: 9753a4586b7de79448efffd3c72c737b, type: 2}
+    m_ValueSerializationHelper:
+    - e00: 0.7161251
+      e01: 0
+      e02: 0
+      e03: 45.9086
+      e10: 0
+      e11: 0.7161251
+      e12: 0
+      e13: 68.82974
+      e20: 0
+      e21: 0
+      e22: 1
+      e23: 0
+      e30: 0
+      e31: 0
+      e32: 0
+      e33: 1
+  m_PreviewAnimator: {fileID: 0}
+  m_AnimatorController: {fileID: 9100000, guid: 9753a4586b7de79448efffd3c72c737b,
+    type: 2}
+  m_BreadCrumbs:
+  - m_Target: {fileID: 1107699435071657850, guid: 9753a4586b7de79448efffd3c72c737b,
+      type: 2}
+    m_ScrollPosition: {x: 0, y: 0}
+  stateMachineGraph: {fileID: 0}
+  stateMachineGraphGUI: {fileID: 0}
+  blendTreeGraph: {fileID: 0}
+  blendTreeGraphGUI: {fileID: 0}
+  m_AutoLiveLink: 1
+  m_MiniTool: 0
+  m_LockTracker:
+    m_IsLocked: 0
+  m_CurrentEditor: 0
+  m_LayerEditor:
+    m_SelectedLayerIndex: 0
+--- !u!114 &18
+=======
+>>>>>>> hirokimaeda22666-maeda
     x: 367.2
     y: 378.4
     width: 679
@@ -2371,6 +2605,7 @@ MonoBehaviour:
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &16
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 =======
 --- !u!114 &9
@@ -2404,6 +2639,8 @@ MonoBehaviour:
   vertical: 1
   controlID: 56
 --- !u!114 &10
+=======
+>>>>>>> hirokimaeda22666-maeda
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2496,6 +2733,23 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+<<<<<<< HEAD
+    x: 600
+    y: 72.66667
+    width: 307
+    height: 343
+=======
+    x: 471.33334
+    y: 112.66667
+    width: 435
+    height: 315
+>>>>>>> Mochizuki
+>>>>>>> hirokimaeda22666-maeda
 =======
   m_Script: {fileID: 12010, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
@@ -2506,6 +2760,7 @@ MonoBehaviour:
   m_Position:
     serializedVersion: 2
     x: 0
+<<<<<<< HEAD
     y: 0
     width: 1003
     height: 393
@@ -2569,6 +2824,80 @@ MonoBehaviour:
     height: 501
   m_PersistentViewDataDictionary: {fileID: 0}
 --- !u!114 &13
+=======
+    y: 72.66667
+    width: 200
+>>>>>>> Miyashita
+=======
+    x: 1023.2
+    y: 80.8
+    width: 230
+>>>>>>> master
+    height: 373
+>>>>>>> master
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_SceneHierarchy:
+    m_TreeViewState:
+<<<<<<< HEAD
+      scrollPos: {x: 0, y: 12}
+      m_SelectedIDs: 4427feff
+      m_LastClickedID: -121020
+      m_ExpandedIDs: 009cffffea9dfffffe9dffff7ca4ffff78a9ffffbefbfffff2a10000dea30000
+=======
+      scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+<<<<<<< HEAD
+      m_SelectedIDs: e8350000
+      m_LastClickedID: 0
+      m_ExpandedIDs: eafaffffd4fbffff
+=======
+      m_SelectedIDs: 
+      m_LastClickedID: 0
+      m_ExpandedIDs: d4fbffff
+>>>>>>> Mochizuki
+=======
+      m_SelectedIDs: f8340000
+      m_LastClickedID: 13560
+      m_ExpandedIDs: f0e4ffff7ce6ffffe0e6ffff92e9ffffb6fbffff00350000
+>>>>>>> master
+      m_RenameOverlay:
+        m_UserAcceptedRename: 0
+        m_Name: CarWaypointBased (4)
+        m_OriginalName: CarWaypointBased (4)
+        m_EditFieldRect:
+          serializedVersion: 2
+          x: 0
+          y: 0
+          width: 0
+          height: 0
+        m_UserData: -64358
+        m_IsWaitingForDelay: 0
+        m_IsRenaming: 0
+        m_OriginalEventType: 0
+        m_IsRenamingFilename: 0
+<<<<<<< HEAD
+        m_ClientGUIView: {fileID: 2}
+=======
+        m_ClientGUIView: {fileID: 8}
+>>>>>>> master
+      m_SearchString: 
+    m_ExpandedScenes: []
+    m_CurrenRootInstanceID: 0
+    m_LockTracker:
+      m_IsLocked: 0
+    m_CurrentSortingName: TransformSorting
+  m_WindowGUID: 53886b7456f85c34c8a1db9329327396
+--- !u!114 &19
+>>>>>>> master
+=======
+    x: 572
+    y: 529.60004
+    width: 480
+    height: 254
+  m_PersistentViewDataDictionary: {fileID: 0}
+--- !u!114 &17
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -2590,6 +2919,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2672,14 +3005,18 @@ MonoBehaviour:
     height: 310
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 =======
     x: 572
     y: 529.60004
     width: 480
     height: 254
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 <<<<<<< HEAD
 >>>>>>> master
@@ -2687,6 +3024,8 @@ MonoBehaviour:
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
 >>>>>>> master
@@ -2712,11 +3051,27 @@ MonoBehaviour:
     m_SearchArea: 1
     m_Folders:
 <<<<<<< HEAD
+<<<<<<< HEAD
     - Assets/Tsure
 =======
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+    - Assets/Scenes
+=======
+    - Assets/Prefab
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+  m_ViewMode: 1
+  m_StartGridSize: 64
+  m_LastFolders:
+<<<<<<< HEAD
+  - Assets/Scenes
+  m_LastFoldersGridSize: 39
+  m_LastProjectPath: C:\Users\1723132\Documents\TeamB_Test\Test_SatoLab
+>>>>>>> hirokimaeda22666-maeda
 =======
 <<<<<<< HEAD
     - Assets
@@ -2777,15 +3132,31 @@ MonoBehaviour:
 <<<<<<< HEAD
   m_LastProjectPath: C:\Users\1723106\Documents\TeamB\Test_SatoLab
 =======
+<<<<<<< HEAD
   m_LastProjectPath: C:\Users\1723132\Documents\TeamB_Test\Test_SatoLab
 <<<<<<< HEAD
 >>>>>>> f3a55c77ec6c4f2dd9bfd81b99414add74e9fe1d
 =======
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+=======
+  m_LastFoldersGridSize: 39
+  m_LastProjectPath: C:\Users\1723168\Desktop\sato-lab TeamB\Test_SatoLab
+>>>>>>> Miyashita
+=======
+  - Assets/Prefab
+  m_LastFoldersGridSize: -1
+  m_LastProjectPath: C:\Users\1723118\Documents\sato-lab_team-B\oshima\Test_SatoLab
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
+<<<<<<< HEAD
+=======
+    scrollPos: {x: 0, y: 0}
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
     scrollPos: {x: 0, y: 1081}
     m_SelectedIDs: ac7e0000
@@ -2818,6 +3189,14 @@ MonoBehaviour:
 =======
 >>>>>>> master
 >>>>>>> master
+<<<<<<< HEAD
+=======
+=======
+    m_SelectedIDs: 5c510000
+    m_LastClickedID: 20828
+    m_ExpandedIDs: 0000000010380000583d00009c3f0000a040000038410000
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2838,6 +3217,7 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 =======
@@ -2853,6 +3233,11 @@ MonoBehaviour:
 =======
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
     m_SearchString: 
+=======
+=======
+    m_SearchString: 
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -2863,6 +3248,10 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -2914,6 +3303,7 @@ MonoBehaviour:
 >>>>>>> master
 >>>>>>> master
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
 <<<<<<< HEAD
 >>>>>>> master
@@ -2934,6 +3324,11 @@ MonoBehaviour:
 =======
     m_ExpandedIDs: 0000000098280000242900009e2b0000d42b0000ee2c0000582d0000442f0000962f0000703000007231000040330000a63400004e350000f035000070370000883700009637000064380000
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+=======
+    m_ExpandedIDs: 00000000103800007e3a0000583d00009c3f0000a040000038410000
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -2990,16 +3385,20 @@ MonoBehaviour:
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
     m_HadKeyboardFocusLastEvent: 1
+<<<<<<< HEAD
 >>>>>>> master
     m_ExpandedInstanceIDs: c6230000
 <<<<<<< HEAD
 =======
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
     m_ExpandedInstanceIDs: c62300003848fdff18440000d42d00002245fbff8c2a000000000000
 >>>>>>> master
 =======
 >>>>>>> d728cdc3ac42df8042c1ecf45e0997f39dffefae
 >>>>>>> master
+<<<<<<< HEAD
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000
 <<<<<<< HEAD
@@ -3017,6 +3416,11 @@ MonoBehaviour:
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: c6230000002e0000
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+=======
+    m_ExpandedInstanceIDs: c6230000
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -3033,6 +3437,7 @@ MonoBehaviour:
       m_OriginalEventType: 11
       m_IsRenamingFilename: 1
 <<<<<<< HEAD
+<<<<<<< HEAD
       m_ClientGUIView: {fileID: 5}
 =======
 <<<<<<< HEAD
@@ -3041,10 +3446,13 @@ MonoBehaviour:
       m_ClientGUIView: {fileID: 4}
 =======
 <<<<<<< HEAD
+=======
+>>>>>>> hirokimaeda22666-maeda
       m_ClientGUIView: {fileID: 0}
 =======
       m_ClientGUIView: {fileID: 10}
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 =======
       m_ClientGUIView: {fileID: 0}
@@ -3057,6 +3465,8 @@ MonoBehaviour:
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
     m_CreateAssetUtility:
       m_EndAction: {fileID: 0}
       m_InstanceID: 0
@@ -3068,6 +3478,10 @@ MonoBehaviour:
 <<<<<<< HEAD
 <<<<<<< HEAD
     m_ScrollPosition: {x: 0, y: 0}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
     m_GridSize: 32
   m_DirectoriesAreaWidth: 110
@@ -3132,6 +3546,7 @@ MonoBehaviour:
   m_DirectoriesAreaWidth: 110
 --- !u!114 &18
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 =======
 <<<<<<< HEAD
@@ -3144,6 +3559,8 @@ MonoBehaviour:
   m_DirectoriesAreaWidth: 115
 --- !u!114 &14
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+>>>>>>> hirokimaeda22666-maeda
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3155,7 +3572,16 @@ MonoBehaviour:
   m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
   m_Name: 
   m_EditorClassIdentifier: 
+<<<<<<< HEAD
   m_MinSize: {x: 275, y: 50}
+=======
+<<<<<<< HEAD
+  m_AutoRepaintOnSceneChange: 0
+  m_MinSize: {x: 275, y: 50}
+=======
+  m_MinSize: {x: 200, y: 200}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Inspector
@@ -3164,6 +3590,10 @@ MonoBehaviour:
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -3247,6 +3677,10 @@ MonoBehaviour:
     height: 647
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
   m_PersistentViewDataDictionary: {fileID: 0}
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
   m_ObjectsLockedBeforeSerialization: []
   m_InstanceIDsLockedBeforeSerialization: 
   m_LockTracker:
@@ -3257,6 +3691,7 @@ MonoBehaviour:
     m_PrefName: Preview_InspectorPreview
   m_PreviewWindow: {fileID: 0}
 --- !u!114 &15
+<<<<<<< HEAD
 <<<<<<< HEAD
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -3284,6 +3719,9 @@ MonoBehaviour:
     width: 245
     height: 367
   m_PersistentViewDataDictionary: {fileID: 0}
+=======
+=======
+>>>>>>> hirokimaeda22666-maeda
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
@@ -3316,6 +3754,7 @@ MonoBehaviour:
   m_WindowGUID: af9c437dee7b9d341ac078e42be6cf1c
 --- !u!114 &19
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+<<<<<<< HEAD
 >>>>>>> master
 =======
 <<<<<<< HEAD
@@ -3323,6 +3762,8 @@ MonoBehaviour:
 =======
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
+=======
+>>>>>>> hirokimaeda22666-maeda
 MonoBehaviour:
   m_ObjectHideFlags: 52
   m_CorrespondingSourceObject: {fileID: 0}
@@ -3333,12 +3774,24 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 1
+<<<<<<< HEAD
   m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+=======
+<<<<<<< HEAD
+  m_Script: {fileID: 12061, guid: 0000000000000000e000000000000000, type: 0}
+=======
+  m_Script: {fileID: 12019, guid: 0000000000000000e000000000000000, type: 0}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
   m_Name: 
   m_EditorClassIdentifier: 
   m_MinSize: {x: 200, y: 200}
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
     m_Text: Hierarchy
     m_Image: {fileID: -590624980919486359, guid: 0000000000000000d000000000000000,
       type: 0}
@@ -3983,10 +4436,21 @@ MonoBehaviour:
   m_TitleContent:
     m_Text: Console
     m_Image: {fileID: 111653112392082826, guid: 0000000000000000d000000000000000,
+<<<<<<< HEAD
+=======
+=======
+    m_Text: Inspector
+    m_Image: {fileID: -6905738622615590433, guid: 0000000000000000d000000000000000,
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
       type: 0}
     m_Tooltip: 
   m_Pos:
     serializedVersion: 2
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -4082,7 +4546,26 @@ MonoBehaviour:
 >>>>>>> Tsure
 >>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
 >>>>>>> master
+<<<<<<< HEAD
   m_PersistentViewDataDictionary: {fileID: 0}
 =======
   m_PersistentViewDataDictionary: {fileID: 0}
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+=======
+    x: 1258.4
+    y: 80.8
+    width: 275
+    height: 703
+  m_PersistentViewDataDictionary: {fileID: 0}
+  m_ObjectsLockedBeforeSerialization: []
+  m_InstanceIDsLockedBeforeSerialization: 
+  m_LockTracker:
+    m_IsLocked: 0
+  m_PreviewResizer:
+    m_CachedPref: 160
+    m_ControlHash: -371814159
+    m_PrefName: Preview_InspectorPreview
+  m_PreviewWindow: {fileID: 0}
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda

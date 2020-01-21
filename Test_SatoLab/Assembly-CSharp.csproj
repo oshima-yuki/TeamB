@@ -727,11 +727,14 @@
      <Compile Include="Assets\Scripts\checkpoint_2.cs" />
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
      <Compile Include="Assets\Scripts\Destroy.cs" />
      <Compile Include="Assets\Scripts\DestroyEffect.cs" />
      <Compile Include="Assets\Scripts\explosion.cs" />
 >>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+=======
+>>>>>>> hirokimaeda22666-maeda
      <Compile Include="Assets\Scripts\FackingWall.cs" />
      <Compile Include="Assets\Scripts\GameControler.cs" />
 =======
@@ -764,6 +767,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>C:/Users/授業用/Desktop/佐藤研/TeamB2/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
@@ -780,6 +784,8 @@
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
  <HintPath>C:/Users/1723132/Documents/TeamB_Test/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
 =======
@@ -817,12 +823,18 @@
 <<<<<<< HEAD
 >>>>>>> Miyashita
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 =======
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+=======
+ <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity_2018.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -1031,6 +1043,7 @@
  <Reference Include="Unity.Analytics.Editor">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>C:/Users/授業用/Desktop/佐藤研/TeamB2/Test_SatoLab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.StandardEvents">
@@ -1044,6 +1057,8 @@
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
  <HintPath>C:/Users/1723132/Documents/TeamB_Test/Test_SatoLab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
 =======
@@ -1272,12 +1287,18 @@
 <<<<<<< HEAD
 >>>>>>> Miyashita
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 =======
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+=======
+ <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
  </Reference>
  <Reference Include="netstandard">
  <HintPath>C:/Program Files/Unity_2018.3.2f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

@@ -718,6 +718,7 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>C:/Users/授業用/Desktop/佐藤研/TeamB2/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
@@ -734,6 +735,8 @@
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
  <HintPath>C:/Users/1723132/Documents/TeamB_Test/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
 =======
@@ -771,12 +774,18 @@
 <<<<<<< HEAD
 >>>>>>> Miyashita
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 =======
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+=======
+ <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity_2018.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -1255,6 +1264,7 @@
  <Reference Include="UnityEditor.Advertisements">
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
  <HintPath>C:/Users/授業用/Desktop/佐藤研/TeamB2/Test_SatoLab/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
  </Reference>
  <Reference Include="Unity.Analytics.Editor">
@@ -1274,6 +1284,8 @@
 =======
 =======
 >>>>>>> master
+=======
+>>>>>>> hirokimaeda22666-maeda
 <<<<<<< HEAD
  <HintPath>C:/Users/1723132/Documents/TeamB_Test/Test_SatoLab/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
 =======
@@ -1317,12 +1329,18 @@
 <<<<<<< HEAD
 >>>>>>> Miyashita
 <<<<<<< HEAD
+<<<<<<< HEAD
 >>>>>>> master
 =======
 =======
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> master
+=======
+=======
+ <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+>>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
+>>>>>>> hirokimaeda22666-maeda
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity_2018.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
