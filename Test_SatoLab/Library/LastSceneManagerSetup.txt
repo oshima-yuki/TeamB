@@ -1,6 +1,7 @@
 sceneSetups:
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 - path: Assets/Scenes/Car_rank.unity
 <<<<<<< HEAD
 <<<<<<< HEAD
@@ -44,5 +45,8 @@ sceneSetups:
 - path: Assets/Scenes/TitleScene.unity
 >>>>>>> 20865cce5b94d93f4c7bd8f96f9d5013737c75cb
 >>>>>>> hirokimaeda22666-maeda
+=======
+- path: Assets/Miyashita/Scenes/Sample2.unity
+>>>>>>> 6a3eca5c6f9e15fb243a09334dcf17dbf1f9bf3f
   isLoaded: 1
   isActive: 1

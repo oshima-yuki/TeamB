@@ -4,15 +4,11 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - CheckPoint1
+  - Fire
   - Player2
-  - Player3
-<<<<<<< HEAD
-  - CheckPoint
-=======
   - DestroyWall
   - DestroyWall01
->>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
+  - CheckPoint
   layers:
   - Default
   - TransparentFX
@@ -22,7 +18,7 @@ TagManager:
   - UI
   - 
   - 
-  - PostProcessing
+  - 
   - 
   - 
   - 
