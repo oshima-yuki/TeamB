@@ -19,7 +19,7 @@ public class SceneControler: MonoBehaviour
     //---GameSceneへ移行---
     public void StartGame()
     {
-        SceneManager.LoadScene("aaa");//ゲームシーン名入力
+        SceneManager.LoadScene("Sample2");//ゲームシーン名入力
     }
     //---GameSceneへ移行---
 
@@ -34,14 +34,13 @@ public class SceneControler: MonoBehaviour
     public void TitleScene()
     {
         SceneManager.LoadScene("TitleScene");
-        Destroy(this);
     }
     //---TitleSceneへ移行---
 
     // Start is called before the first frame update
     void Start()
     {
-        DontDestroyOnLoad(this);//シーンが移動してもオブジェクトを破棄しないようにする
+       // DontDestroyOnLoad(this);//シーンが移動してもオブジェクトを破棄しないようにする
     }
 
     // Update is called once per frame
