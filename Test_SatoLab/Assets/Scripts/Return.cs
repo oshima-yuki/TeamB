@@ -14,14 +14,15 @@ public class Return : MonoBehaviour
     //対象のオブジェクト
     private bool[] isRespon = { false, false, false, false, false, false, false, false };
     public GameObject[] desObjs = new GameObject[8];
-    private Vector3[] initPos = new Vector3[8];
+    public Vector3[] initPos = new Vector3[8];
+    public int l = 0;
 
     // Use this for initialization 
     void Start()
     {
         //初期値設定 
         gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameManeger>();
-        for(int i = 0; i < 8; i++) { this.initPos[i] = gm.lastCheckPointPos[i]; }
+        for(int i = 0; i < l; i++) { this.initPos[i] = gm.lastCheckPointPos[i]; }
         
     }
     // Update is called once per frame 
@@ -34,11 +35,12 @@ public class Return : MonoBehaviour
                 time += Time.deltaTime;
                 if (time >= 3.0f)
                 {
-                    
-                        time = 0.0f;
-                        isRespon[i] = false;
-                        this.desObjs[i].SetActive(true);
-                        this.desObjs[i].transform.position = gm.lastCheckPointPos[i];
+
+                    time = 0.0f;
+                    isRespon[i] = false;
+                    this.desObjs[i].SetActive(true);
+                    this.desObjs[i].transform.position = gm.lastCheckPointPos[i];
+                    this.desObjs[i].transform.rotation = gm.lastCheckPointRot[i];
                     
                 }
             }
