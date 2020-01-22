@@ -55,6 +55,7 @@
   <ItemGroup>
      <Compile Include="Assets\JMO Assets\Cartoon FX Easy Editor\Editor\CFXEasyEditor.cs" />
  <Reference Include="Unity.TextMeshPro.Editor">
+<<<<<<< HEAD
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
  </Reference>
  <Reference Include="Unity.PackageManagerUI.Editor">
@@ -68,6 +69,21 @@
  </Reference>
  <Reference Include="Unity.Analytics.DataPrivacy">
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+=======
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.PackageManagerUI.Editor">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/ScriptAssemblies/Unity.PackageManagerUI.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.CollabProxy.Editor">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.TextMeshPro">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.DataPrivacy">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/ScriptAssemblies/Unity.Analytics.DataPrivacy.dll</HintPath>
+>>>>>>> Tsure
  </Reference>
  <Reference Include="UnityEngine.AIModule">
  <HintPath>C:/Program Files/Unity_2018.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.AIModule.dll</HintPath>
@@ -301,6 +317,7 @@
  <HintPath>C:/Program Files/Unity_2018.3.2f1/Editor/Data/PlaybackEngines/windowsstandalonesupport/UnityEditor.WindowsStandalone.Extensions.dll</HintPath>
  </Reference>
  <Reference Include="JMOAssets_CartoonFXFreeWelcome">
+<<<<<<< HEAD
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Assets/JMO Assets/Editor/JMOAssets_CartoonFXFreeWelcome.dll</HintPath>
  </Reference>
  <Reference Include="UnityEditor.Advertisements">
@@ -317,6 +334,24 @@
  </Reference>
  <Reference Include="UnityEditor.Purchasing">
  <HintPath>C:/Users/1723118/Documents/sato-lab_team-B/oshima/Test_SatoLab/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+=======
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Assets/JMO Assets/Editor/JMOAssets_CartoonFXFreeWelcome.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Advertisements">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/PackageCache/com.unity.ads@2.0.8/Editor/UnityEditor.Advertisements.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Editor">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Editor.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.StandardEvents">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.StandardEvents.dll</HintPath>
+ </Reference>
+ <Reference Include="Unity.Analytics.Tracker">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/PackageCache/com.unity.analytics@3.2.2/Unity.Analytics.Tracker.dll</HintPath>
+ </Reference>
+ <Reference Include="UnityEditor.Purchasing">
+ <HintPath>C:/Users/1723132/Desktop/TeamB_Test/Test_SatoLab/Library/PackageCache/com.unity.purchasing@2.0.3/Editor/UnityEditor.Purchasing.dll</HintPath>
+>>>>>>> Tsure
  </Reference>
  <Reference Include="mscorlib">
  <HintPath>C:/Program Files/Unity_2018.3.2f1/Editor/Data/MonoBleedingEdge/lib/mono/4.7.1-api/mscorlib.dll</HintPath>
