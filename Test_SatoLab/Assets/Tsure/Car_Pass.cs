@@ -35,7 +35,6 @@ public class Car_Pass : MonoBehaviour
         {
             count++;
             max++;
-            //Debug.Log(chpoint);
         }
         chpoint2 = GameObject.FindGameObjectsWithTag("CheckPoint");
         foreach (GameObject ob in chpoint2)
@@ -44,7 +43,10 @@ public class Car_Pass : MonoBehaviour
             max2++;
             //Debug.Log(chpoint);
         }
-
+        for (int i = 0; i < count; i++)
+        {
+            Debug.Log("配列の" + i + "目" + chpoint[i].name);
+        }
         Debug.Log("カウント" + count);
         count = 0;
         count2 = 0;
@@ -54,7 +56,7 @@ public class Car_Pass : MonoBehaviour
     }
 
     // Update is called once per frame
-    void Update()
+    void FixedUpdate()
     {
         //Debug.Log(PL1Distance);
         //Debug.Log(PL1_hit);
@@ -66,13 +68,15 @@ public class Car_Pass : MonoBehaviour
         if (this.gameObject.tag == "Player")
         {
             PL1_S();
-            Debug.Log("1:"+PL1Distance);
+            Debug.Log("カウント1:" + count);
+            //Debug.Log("1:"+PL1Distance);
         }
 
         if (this.gameObject.tag == "Player2")
         {
             PL2_S();
-            Debug.Log("2:"+PL2Distance);
+            Debug.Log("カウント2:" + count2);
+            //Debug.Log("2:"+PL2Distance);
         }
 
 
@@ -81,16 +85,19 @@ public class Car_Pass : MonoBehaviour
 
     private void OnTriggerEnter(Collider other)
     {
+
         if (this.gameObject.tag == "Player")
         {
             if (chpoint[count] == other.gameObject)
-            {
+            { //Debug.Log("hit");
                 if (other.gameObject.tag == "CheckPoint")
                 {
+
                     if (count < max - 1)
                     {
                         count++;
                         score1 -= 1000;
+                        //Destroy(other.gameObject);
                     }
                 }
             }
@@ -98,7 +105,7 @@ public class Car_Pass : MonoBehaviour
 
         if (this.gameObject.tag == "Player2")
         {
-            Debug.Log("aaaaaaaaaaaaaaaaaaaaaaaaa");
+            //Debug.Log("aaaaaaaaaaaaaaaaaaaaaaaaa");
             if (chpoint[count2] == other.gameObject)
             {
                 if (other.gameObject.tag == "CheckPoint")

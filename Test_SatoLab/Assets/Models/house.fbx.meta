@@ -1,25 +1,5 @@
 fileFormatVersion: 2
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-=======
-<<<<<<< HEAD
 guid: 0da2bc4950cf4ce40bf572b713b4d3df
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
->>>>>>> master
-guid: 384be6a7ada52174a884abc9bcbcabd7
-=======
-guid: 0da2bc4950cf4ce40bf572b713b4d3df
-<<<<<<< HEAD
->>>>>>> f3a55c77ec6c4f2dd9bfd81b99414add74e9fe1d
-=======
->>>>>>> Tsure
->>>>>>> 26b34192138a1e231d7f16408b47e9a231ec6769
-=======
-guid: b97a1aff4a01a064888b56589768598b
->>>>>>> ec2e1f20528ecb8cd334bfc0aad48794af228778
 ModelImporter:
   serializedVersion: 23
   fileIDToRecycleName:
@@ -264,7 +244,47 @@ ModelImporter:
     4300084: pCube32
     4300086: pCube33
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn1
+    second: {fileID: 2100000, guid: 94890af8eaa86d9478cc89d4a92bc7e2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: blinn2
+    second: {fileID: 2100000, guid: 358b2be096c9d704c886b8b085b9a616, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert1
+    second: {fileID: 2100000, guid: 3dd7e03781c047e4080d856d8732e273, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: lambert2
+    second: {fileID: 2100000, guid: f0ca41f0660554640ac9e1557a6d869b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong1
+    second: {fileID: 2100000, guid: 28b74f7d04a55ab44b11b0e2c26b7b39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phong2
+    second: {fileID: 2100000, guid: 53e64b69e72962a4aad91707fef357b9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE1
+    second: {fileID: 2100000, guid: b34dbc26add278d4aa0094a0cc2a1923, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: phongE2
+    second: {fileID: 2100000, guid: 46192209b8126324a9b62493bb3f73e9, type: 2}
   materials:
     importMaterials: 1
     materialName: 0

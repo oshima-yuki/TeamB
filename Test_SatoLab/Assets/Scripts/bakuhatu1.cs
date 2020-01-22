@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-public class bakuhatu : MonoBehaviour
+public class bakuhatu1 : MonoBehaviour
 {
     Rigidbody rb;
     public GameObject explode;//explodeにはunity上でprefabを関連付けます
