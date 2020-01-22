@@ -14,6 +14,7 @@ public class PlayerPos : MonoBehaviour
     {
         gm = GameObject.FindGameObjectWithTag("GM").GetComponent<GameManeger>();
         transform.position = gm.lastCheckPointPos[x];
+        transform.rotation = gm.lastCheckPointRot[x];
     }
 
     // Update is called once per frame
